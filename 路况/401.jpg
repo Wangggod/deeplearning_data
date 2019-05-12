@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>百分网(Android)安卓市场_安卓游戏_海量安卓软件下载中心</title>
+        <link rel="stylesheet" href="https://static.byfen.com/www/dist/resource/css/pages/type/success.css">
+</head>
+<body>
+<div class="wrap">
+        <div class="type error">
+        <s></s>
+        操作失败!
+    </div>
+    <div class="msg">
+        您所请求的页面不存在
+        <div class="btn">
+            <a href="https://android.byfen.com">返回首页</a>
+        </div>
+    </div>
+</div>
+</body>
+</html>

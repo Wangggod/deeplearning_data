@@ -1,0 +1,1522 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>四川在线</title>
+<meta name="renderer" content="webkit" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=1024,maximum-scale=2.0" />
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
+<meta http-equiv="expires" content="Wed, 26 Feb 1997 08:21:57 GMT">
+<meta name="baidu-site-verification" content="lCJmttOFrQ" />
+<meta name="baidu-tc-verification" content="958f4677591f13e6e88b0055c0515943" />
+<meta name="keywords" content="四川门户网站，四川群众路线网，四川，成都，蓉城，天府，大熊猫，四川新闻，四川体育，四川人事，四川旅游，成都新闻，成都体育，成都人事，成都旅游，成都美女，成都美食，成都房产，成都汽车，成都财经，成都教育，医院，图片，交通，航班，健康，评论，论坛，团购，电子版，四川日报，华西都市报，天府早报，天府社区，四川微博，成都微博" />
+<meta name="description" content="四川门户网站，四川群众路线网，四川，成都，蓉城，天府，大熊猫，四川新闻，四川体育，四川人事，四川旅游，成都新闻，成都体育，成都人事，成都旅游，成都美女，成都美食，成都房产，成都汽车，成都财经，成都教育，医院，图片，交通，航班，健康，评论，论坛，团购，电子版，四川日报，华西都市报，天府早报，天府社区，四川微博，成都微博" />
+<meta name="application-name" content="四川在线 - 中国四川第一门户网站" />
+<meta name="msapplication-tooltip" content="四川在线 - 中国四川第一门户网站" />
+<meta name="msapplication-task" content="name=四川新闻;action-uri=https://sichuan.scol.com.cn/;icon-uri=favicon.ico" />
+<meta name="msapplication-task" content="name=国内国际;action-uri=https://focus.scol.com.cn/;icon-uri=favicon.ico" />
+<meta name="msapplication-task" content="name=新闻中心;action-uri=https://news.scol.com.cn/;icon-uri=favicon.ico" />
+<meta name="msapplication-task" content="name=天府社区;action-uri=https://bbs.scol.com.cn/;icon-uri=favicon.ico" />
+<meta name="msapplication-task" content="name=视频;action-uri=https://video.scol.com.cn;icon-uri=favicon.ico" />
+<meta name="msapplication-TileColor" content="#ffffff" />
+<meta name="msapplication-square150x150logo" content="square.png" />
+<link rel="next" href="/next"/>
+<link rel="prev" href="/prev"/>
+<link rel="bookmark" href="favicon.ico">
+<link rel="icon" href="favicon.ico" type="image/icon" />
+<link rel="shortcut icon" href="favicon64.ico" type="image/icon" />
+<link rel="canonical" href="https://www.scol.com.cn/" />
+<link href="18scol.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/detectmobilebrowser.js"></script>
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<!--[if lt IE 9]>
+<script src="js/html5shiv.min.js"></script>
+<script src="js/selectivizr2.js"></script>
+<![endif]-->
+<!--[if IE 6]>
+<script src="js/DD_belatedPNG.js"></script>
+<![endif]-->
+<!--[if IE]>
+<style type="text/css">
+i {
+	display:inline-block;
+	height:100%;
+	vertical-align:middle
+}
+img {
+	vertical-align:middle
+}
+</style>
+<![endif]-->
+<base target=_blank>
+</head>
+<body>
+<!-------------------- 顶部搜索区 -------------------->
+<div class="clearfix auto" style="width:100%; background-color:#f1f1f1;">
+<div id="scol_top" class="clearfix w1000">
+<div class="a1">四川日报报业集团主办&nbsp;&nbsp;&nbsp;&nbsp;违法和不良信息举报:86968709&nbsp;虚假报道举报:86968052</div>
+<div class="a2">
+<ul class='search'>
+<form method='get' target='_blank'>
+<input type='text' id='bdcsMain' placeholder="输入检索词" size='30' autocomplete='on'>
+<button id='btnPost' type='submit' onclick="window.open('http://zhannei.baidu.com/cse/search?q=&x=14&y=7&ie=utf-8&s=9261166450363232460&entry=1&q='+document.getElementById('bdcsMain').value)"></button>
+</form>
+</ul>
+<ul class="login">
+<form name="loginform" method="post" action="https://passport.scol.com.cn/login_Save.asp?u_save=0" target="_blank">
+<li><input name="u_Name" type="username" value="用户名" onFocus="if (value =='用户名'){value =''}" onBlur="if (value ==''){value='用户名'}"></li>
+<li><input name="u_Passwd" type="password"></li>
+<li><a onClick="loginform.submit()"><img src="images/15scol_s1.png" border="0"></a></li>
+<li><a href="https://passport.scol.com.cn/Register_Accept.asp" target="_blank"><img src="images/15scol_s2.png" border="0"></a></li>
+</form>
+</ul>
+</div>
+</div>
+</div>
+<!-- 大背景展示开始 -->
+<!--<style>
+body{background:#fff url(images/pic/190302.jpg) no-repeat center 0px;}
+#scol_topbg{ margin:0 auto; width:1000px; height:200px; display:block;}
+#scol_topbg img{ width:100%; height:100%;}
+</style>
+<div id="scol_topbg" class="clearfix"><a href="https://topic.scol.com.cn/2019/19qglh/"><img src="images/spacer.gif"></a></div>-->
+<!-- 大背景展示结束 -->
+	
+<!-- 顶部通栏广告 -->
+<div id="afp_ad" class="scolad_close clearfix w1000">
+<!-- 首页-顶部通栏1 尺寸：1000x0 -->
+<div class="yxtposter" token="98E5E282FD1AE71BC84201637B0FCCF3"></div>
+<!-- 首页-顶部通栏2 尺寸：1000x0 -->
+<div class="yxtposter" token="633CBC1C72DCCF8E8A92624247CE9A5F"></div>
+<!-- 首页-顶部通栏3 尺寸：1000x0 -->
+<div class="yxtposter" token="6544DFE94F9FB192561AA0445D8566F4"></div>
+<!-- 首页-顶部通栏4 尺寸：1000x0 -->
+<div class="yxtposter" token="13EE280E347B19090B7D8555AEE147B2"></div>
+<!-- 首页-顶部通栏5 尺寸：1000x0 -->
+<div class="yxtposter" token="97E847BDE1A53CE62F087D76639E3E63"></div>
+</div>
+<!-------------------- LOGO区 -------------------->
+<div id="scol_logo" class="clearfix w1000">
+<div class="a1">
+<li style="width:200px;"><img src="images/15scol_logo.jpg" width="200" height="80"></li>
+<li style="margin-top:5px;"><script language="javascript" charset="gb2312" src="https://special.scol.com.cn/time.asp"></script><br><div id="scol_weather"></div></li>
+</div>
+<div class="a2">
+<!-- 展播台新闻区 -->
+<script type="text/javascript" language="javascript" src="js/jquery.zbt_tab.js" ></script>
+<div id="zbt_menu">
+<div class="zbt_nav">
+<span></span>
+<span></span>
+<span></span>
+</div>
+<div class="zbt_sho">
+<ul id="newslist">
+<li class="newspic"><a href="https://focus.scol.com.cn/gcdt/201905/56864018.html"><img src="//www.scol.com.cn/pic/20190502/20190502192659_1124.jpg" width="165" height="85"></a></li>
+<li class="newstxt t1-2" style="width:270px;"><a href="https://focus.scol.com.cn/gcdt/201905/56864018.html">从习近平忙碌的四月看&ldquo;我将无我&rdquo;</a><br>​​&ldquo;我将无我，不负人民&rdquo;刷屏的余热还未散去，习近平连轴转的&ldquo;无我&rdquo;工作状态再次引起网友赞叹。</li></ul>
+</div>
+<div class="zbt_sho">
+<ul id="newslist">
+<li class="newspic"><a href="https://focus.scol.com.cn/gcdt/201905/56864163.html"><img src="//www.scol.com.cn/pic/20190502/20190502192555_9547.jpg" width="165" height="85"></a></li>
+<li class="newstxt t1-2" style="width:270px;"><a href="https://focus.scol.com.cn/gcdt/201905/56864163.html">习近平与青年谈心时引用的那些名言隽句</a><br>习近平总书记一直关注青年的成长成才。在与青年的谈心讲话中，他多次引用古语名言勉励青年。</li></ul>
+</div>
+<div class="zbt_sho">
+<ul id="newslist">
+<li class="newspic"><a href="https://focus.scol.com.cn/gcdt/201905/56864136.html"><img src="//www.scol.com.cn/pic/20190502/20190502192530_0792.jpg" width="165" height="85"></a></li>
+<li class="newstxt t1-2" style="width:270px;"><a href="https://focus.scol.com.cn/gcdt/201905/56864136.html">听习近平总书记说给劳动者的&ldquo;暖心话&rdquo;</a><br>今天，当我们在为每一位劳动者点赞之时，一起来听听党的十八大以来习近平总书记对劳动者说的那些暖心话。</li></ul>
+</div>
+</div>
+<!-- 展播台新闻区结束 -->
+</div>
+</div>
+<!-------------------- 导航栏区 -------------------->
+<div id="scol_nav" class="clearfix w1000">
+<div class="menu">
+<ul style="width:130px">
+<li><a style="width:100%;" href="https://scdaily.scol.com.cn">四川日报网</a></li>
+<li><a style="width:100%; letter-spacing:4px;" href="https://bbs.scol.com.cn">天府社区</a></li>
+</ul>
+<ul style="width:200px">
+<li><a href="https://sichuan.scol.com.cn">四川</a><a href="https://comment.scol.com.cn">评论</a><a href="https://ent.scol.com.cn">娱乐</a></li>
+<li><a href="https://focus.scol.com.cn">时事</a><a href="https://more.scol.com.cn/">数据</a><a href="https://sports.scol.com.cn">体育</a></li>
+</ul>
+<ul style="width:260px">
+<li><a style="width:80px" href="https://photo.scol.com.cn">图片频道</a><a style="width:80px" href="https://auto.scol.com.cn">汽车频道</a><a style="width:80px" href="https://teach.scol.com.cn">教育频道</a></li>
+<li><a style="width:80px" href="https://video.scol.com.cn">视频频道</a><a style="width:80px" href="https://house.scol.com.cn">房产频道</a><a style="width:80px;" href="https://women.scol.com.cn">生活频道</a></li>
+</ul>
+<ul style="width:260px">
+<li><a style="width:80px" href="https://old.scol.com.cn">老年频道</a><a style="width:80px" href="https://piyao.scol.com.cn/">辟谣频道</a><a style="width:80px;" href="http://www.scph.cn">视觉四川</a></li>
+<li><a style="width:80px" href="https://jk.scol.com.cn">健康频道</a><a style="width:80px" href="https://tour.scol.com.cn">旅游频道</a><a style="width:80px;" href="https://special.scol.com.cn/12tfzx/">打传规直</a></li>
+</ul>
+<ul style="width:120px; padding-left:20px; background:none;">
+<li style="text-align:left;"><a style="width:100%; color:#4983B1;" href="https://topic.scol.com.cn/18swsj/">省委书记报道集</a></li>
+<li style="text-align:left; letter-spacing:7px;"><a style="width:100%; color:#4983B1;" href="https://topic.scol.com.cn/18sz/">省长报道集</a></li>
+</ul>
+</div>
+</div>
+<!-------------------- 市州导航栏区 -------------------->
+<div id="sz_nav" class="clearfix w1000">
+<ul>
+<li><b><a href="https://cd.scol.com.cn"><b>成都</b></a> <a href="https://longquan.scol.com.cn">龙泉驿</a></b> <font color="#4983B1">地方频道：</font><a href="https://mianyang.scol.com.cn">绵阳</a> <a href="https://deyang.scol.com.cn">德阳</a> <a href="https://meishan.scol.com.cn">眉山</a> <a href="https://ziyang.scol.com.cn">资阳</a> <a href="https://liangshan.scol.com.cn">凉山</a> <a href="https://pzh.scol.com.cn">攀枝花</a> <a href="https://luzhou.scol.com.cn">泸州</a> <a href="https://yibin.scol.com.cn">宜宾</a> <a href="https://zigong.scol.com.cn">自贡</a> <a href="https://nanchong.scol.com.cn">南充</a> <a href="https://dazhou.scol.com.cn">达州</a> <a href="https://suining.scol.com.cn">遂宁</a> <a href="https://leshan.scol.com.cn">乐山</a> <a href="https://neijiang.scol.com.cn">内江</a> <a href="https://gy.scol.com.cn">广元</a> <a href="https://guangan.scol.com.cn">广安</a> <a href="https://yaan.scol.com.cn">雅安</a> <a href="https://bazhong.scol.com.cn">巴中</a> <a href="https://ganzi.scol.com.cn">甘孜</a></li>
+</ul>
+</div>
+<!-------------------- 精华推荐区 -------------------->
+<div id="tjnav" class="clearfix w1000">
+<ul><li style="word-spacing:10px">
+<font style="font-size:14px; color:#FE6306; font-weight:bold; margin-left:10px;">推荐</font>
+<a href="http://www.scjgdj.gov.cn"><img src="images/pic/scggdj.jpg" style="width:100px; height:auto;" align="absmiddle"></a>
+&emsp;<a href="http://aerial.scol.com.cn/"><img src="//www.scol.com.cn/pic/20180119/20180119145635_1700.gif" width="22" height="22" align="absmiddle">航拍四川 </a>
+&emsp;<a href="http://topic.scol.com.cn/2017/17dzzhcx/pc/"><img src="//www.scol.com.cn/pic/20180119/20180119145734_3784.gif" width="22" height="22" align="absmiddle">地灾隐患查询 </a>
+&emsp;<a href="http://piyao.scol.com.cn/"><img src="//www.scol.com.cn/pic/20180514/20180514143428_1216.jpg" width="22" height="22" align="absmiddle">辟谣</a>
+&emsp;<a href="http://topic.scol.com.cn/2017/17cdlh/"><img src="//www.scol.com.cn/pic/20180119/20180119145804_0558.jpg" width="22" height="22" align="absmiddle">落户成都</a>
+&emsp;<a href="https://job.scol.com.cn/"><img src="//www.scol.com.cn/pic/20180307/20180307145340_2522.jpg" width="22" height="22" align="absmiddle">招聘</a>
+&emsp;<a href="http://www.19wan.com/"><img src="//www.scol.com.cn/pic/20180119/20180119153134_4705.gif" width="22" height="22" align="absmiddle">成都斗地主  </a>
+&emsp;<a href="http://www.12377.cn/"><img src="//www.scol.com.cn/pic/20180228/20180228142225_3294.jpg" width="22" height="22" align="absmiddle">违法不良信息举报</a>
+</li></ul>
+</div>
+<!-------------------- 宣传通栏广告 -------------------->
+<!--<div class="clearfix w1000 xdd_pic" style="width:1000px; height:80px; overflow:hidden;">
+<p><a href="https://topic.scol.com.cn/2019/19sclh/"><img src="images/pic/190112_2.jpg" style="width:100%; height:auto"></a></p>
+<p><a href="https://topic.scol.com.cn/2018/18swsc/"><img src="images/pic/181211.jpg" style="width:100%; height:auto"></a></p>
+</div>-->
+<div class="clear"></div>
+<!-- 置顶广告 -->
+<div id="afp_ad" class="scolad_close clearfix w1000">
+<!-- 首页-全屏 尺寸：不限制 -->
+<div class="yxtposter" token="24BAF9D94C7C24F86F31D79EA3E78CA5"></div>
+<div id="sstl">
+<li class="sstl_1">
+<!-- 首页-伸缩（大）尺寸：1000x180 -->
+<div class="yxtposter" token="42D7ED788F4AE5DCEEE09B150E3D700B"></div>
+</li>
+<li class="sstl_2" style="display:none;">
+<!-- 首页-伸缩（小）尺寸：1000x35 -->
+<div class="yxtposter" token="8CF9E305BDD0175613CB333441BA1B3E"></div>
+</li>
+</div>
+<script>
+$(function(){
+	setTimeout(function(){
+		$("li.sstl_1").animate({height:'hide'});
+		$("li.sstl_2").show(500);
+	},8000);
+	$("li.sstl_2").mouseenter(function(){
+		$("li.sstl_2").css("display","none");
+		$("li.sstl_1").css("display","block");
+	});
+	$("li.sstl_1").mouseleave(function(){
+		$("li.sstl_2").css("display","block");
+		$("li.sstl_1").css("display","none");
+	});
+});
+</script>
+</div>
+<!-- 通栏广告1 -->
+<div id="afp_ad" class="scolad_close clearfix w1000">
+<!-- 首页-A通栏1 尺寸：1000x0 -->
+<div class="yxtposter" token="CA99F3F53805F7508A1A87E474B31494"></div>
+<!-- 首页-A通栏2 尺寸：1000x0 -->
+<div class="yxtposter" token="81B3CC7A884B43C58B08C5258129014E"></div>
+<!-- 首页-A通栏3 尺寸：1000x0 -->
+<div class="yxtposter" token="9559C41F71A221B6CF5CF54A0BFE977F"></div>
+<!-- 首页-A通栏4 尺寸：1000x0 -->
+<div class="yxtposter" token="71F4631E1805BA272A2E1C4999CD49FE"></div>
+<!-- 首页-A通栏5 尺寸：1000x0 -->
+<div class="yxtposter" token="DAFD8CCE58D26EBDCD01E1D1457D7E7E"></div>
+</div>
+
+<!-------------------- 滚动推荐新闻区 -------------------->
+<style type="text/css">
+#scol_gdDiv1{margin:5px auto;height:80px;line-height:80px;overflow:hidden;} 
+#scol_gdDiv1 li{height:80px;}
+/*#scol_gdDiv1 .gd_tjxw:last-child{display:none;}*/
+#scol_gdDiv1 .gd_tjxw ul{width:33.3333%;float:left;overflow:hidden;}
+</style>
+<script> 
+function AutoScroll(obj){
+	$(obj).find("ul:first").animate({
+		marginTop:"-80px"
+	},300,function(){
+		$(this).css({marginTop:"0px"}).find("li:first").appendTo(this); 
+	}); 
+} 
+//setInterval('AutoScroll("#scol_gdDiv1")',5000);
+</script>
+<div id="scol_gdDiv1" class="clearfix w1000" style="height:80px;overflow:hidden;">
+<ul>
+<li>
+<div class="gd_tjxw">
+<ul id="newslist">
+<li class="newspic"><a href="https://topic.scol.com.cn/2019/19zl70n/"><img src="//www.scol.com.cn/pic/20190409/20190409161633_4050.jpg" width="130" height="80"></a></li>
+<li class="newstxt t1-2" style="width:180px;line-height:20px;"><a href="https://topic.scol.com.cn/2019/19zl70n/">壮丽70年&middot;奋斗新时代</a><br>&nbsp; 70年砥砺奋进，我们的国家发生了天翻地覆的变化。即日起，&ldquo;壮丽70年 奋斗新时代&rdquo;专题上线。</li>
+</ul>
+<ul id="newslist">
+<li class="newspic"><a href="https://topic.scol.com.cn/2019/19agq/"><img src="//www.scol.com.cn/pic/20190329/20190329161433_3550.jpg" width="130" height="80"></a></li>
+<li class="newstxt t1-2" style="width:180px;line-height:20px;"><a href="https://topic.scol.com.cn/2019/19agq/">爱国情 奋斗者</a><br>本网&ldquo;爱国情奋斗者&rdquo;专栏围绕庆祝新中国成立70周年主题，讲述70年来巴蜀儿女奋斗故事。</li>
+</ul>
+<ul id="newslist">
+<li class="newspic"><a href="http://special.scol.com.cn/2019szzg/"><img src="//www.scol.com.cn/pic/20190505/20190505105403_3049.jpg" width="130" height="80"></a></li>
+<li class="newstxt t1-2" style="width:180px;line-height:20px;"><a href="http://special.scol.com.cn/2019szzg/">第二届数字中国建设峰会</a><br>2019年5月6日至8日，第二届数字中国建设峰会在福州海峡国际会展中心举行。</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="gd_tjxw">
+<ul id="newslist">
+<li class="newspic"><a href="https://topic.scol.com.cn/2019/19sjyy/"><img src="//www.scol.com.cn/pic/20190430/20190430141515_7071.jpg" width="130" height="80"></a></li>
+<li class="newstxt t1-2" style="width:180px;line-height:20px;"><a href="https://topic.scol.com.cn/2019/19sjyy/">2019北京世界园艺博览会</a><br>4月29日，2019年中国北京世界园艺博览会正式开园，四川展园也正式开园迎客。</li>
+</ul>
+<ul id="newslist">
+<li class="newspic"><a href="http://topic.scol.com.cn/2019/19whly/"><img src="//www.scol.com.cn/pic/20190429/20190429155639_0749.jpg" width="130" height="80"></a></li>
+<li class="newstxt t1-2" style="width:180px;line-height:20px;"><a href="http://topic.scol.com.cn/2019/19whly/">聚焦四川省文旅发展大会</a><br>4月29日，四川省文化和旅游发展大会在成都世纪城国际会议中心举行。</li>
+</ul>
+<ul id="newslist">
+<li class="newspic"><a href="https://topic.scol.com.cn/2019/19ydylsc/"><img src="//www.scol.com.cn/pic/20190424/20190424144027_0945.jpg" width="130" height="80"></a></li>
+<li class="newstxt t1-2" style="width:180px;line-height:20px;"><a href="https://topic.scol.com.cn/2019/19ydylsc/">&ldquo;一带一路&rdquo;上的四川</a><br>4月25日至27日，第二届&ldquo;一带一路&rdquo;国际合作高峰论坛将在北京举行。</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div class="clear"></div>
+<!-- 半通栏广告1 -->
+<div id="afp_ad" class="scolad_close clearfix w1000">
+<ul style="display:table;">
+<li class="fl">
+<!-- 首页-半通栏（左）1 尺寸：499x0 -->
+<div class="yxtposter" token="6593BB64B9FEE9EC57C278455DBACB03"></div>
+</li>
+<li class="fr">
+<!-- 首页-半通栏（右）1 尺寸：499x0 -->
+<div class="yxtposter" token="B16B868DE277F9CC2CFA8309F5E7E01B"></div>
+</li>
+</ul>
+</div>
+<!-------------------- 指令推送区 -------------------->
+<style>
+#zlts ul{width:100%; margin:5px auto; clear:both;}
+#zlts .zlts_1{font-size:30px; text-align:center; margin:10px auto;}
+#zlts .zlts_2{font-size:16px; line-height:30px;}
+#zlts .zlts_3{font-size:14px; height:26px; line-height:26px; background:#DEEAF6;}
+#zlts .zlts_2 li,#zlts .zlts_3 li{float:left;}
+#zlts .zlts_1 a,.zlts_2 a{color:#E5344D;}
+#zlts .zlts_3 a{color:#333;}
+#zlts .zlts_pic{width:520px; height:100px; overflow:hidden;}
+</style>
+<script>
+$(function(){
+	//图片切换
+	$.extend({
+		picSwitch : function(obj){
+			$(obj).eq(0).fadeOut("slow", function(){
+				$(this).clone().appendTo($(this).parent()).show();
+				$(this).remove();
+			});
+		}
+	});
+	setInterval("$.picSwitch('.zlts_pic p')",5000);
+	//setInterval("$.picSwitch('.xdd_pic p')",3500);
+});
+</script>
+<div id="zlts" class="clearfix w1000">
+<ul class="zlts_1">
+<a href="https://focus.scol.com.cn/gcdt/201905/56865537.html">跟着习近平，一起去奋斗</a>
+</ul>
+<ul class="zlts_2">
+<li style="width:480px;">
+· <a href="https://focus.scol.com.cn/gcdt/201905/56865035.html">人民日报连续刊登：微观察&middot;习近平主席的这一周</a><br>
+· <a href="//www.scol.com.cn/zlts_xw/201905/56865636.html"><a href="https://focus.scol.com.cn/zgsz/201905/56865455.html" target="_blank">关于建立健全城乡融合发展体制机制和政策体系的意见</a>|<a href="https://focus.scol.com.cn/zgsz/201905/56865457.html" target="_blank">四大看点</a></a><br>
+· <a href="https://focus.scol.com.cn/gcdt/201905/56865238.html">源于时代超越时代——习近平这样论述马克思主义</a><br>
+</li>
+<li class="zlts_pic">
+<p><a href="https://topic.scol.com.cn/2018/18xsd/"><img src="//www.scol.com.cn/pic/20180719/20180719165321_5575.jpg" width="520" height="100"></a></p>
+<p><a href="https://special.scdaily.cn/2016xxyd/"><img src="//www.scol.com.cn/pic/20180719/20180719165344_3055.jpg" width="520" height="100"></a></p>
+</li>
+</ul>
+<ul class="zlts_3">
+<li style="background:#E5344D; padding:0 20px; font-size:18px; color:#fff;">时事</li>
+<li style="margin-left:5px; padding-left:10px;">
+&emsp;·<a href="//www.scol.com.cn/zlts_ss/201905/56865639.html"><a href="https://focus.scol.com.cn/zgsz/201905/56865628.html" target="_blank">探馆第二届数字中国建设成果展览会</a>|<a href="https://focus.scol.com.cn/zgsz/201905/56865630.html" target="_blank">黑科技云集</a></a>
+&emsp;·<a href="https://focus.scol.com.cn/zgsz/201905/56865625.html">生态天津 绿色发展 津沽大地崛起&ldquo;绿巨人&rdquo;</a>
+&emsp;·<a href="https://focus.scol.com.cn/zgsz/201905/56865424.html">壮丽70年 奋斗新时代|百年煤城 焕发青春</a>
+	
+</li>
+</ul>
+</div>
+<div class="clear"></div>
+<!-- 文字链广告1 -->
+<div id="adtxt-1" class="clearfix w1000">
+<ul><li>
+&emsp;<a href="http://special.scdaily.cn/2016xxyd/">学习习近平总书记系列重要讲话精神大型网络数据库</a>
+&emsp;<a href="http://special.scol.com.cn/18xddxzw/">新时代担当作为典型风采</a>
+&emsp;<a href="http://www.scwmw.cn/topic/2018/gshzjsc/">第六届全国道德模范故事汇进四川</a>
+&emsp;<a href="http://topic.scol.com.cn/2017/17dzzhcx/pc/">四川地灾隐患点查询</a>
+</li></ul>
+</div>
+<div class="clear"></div>
+<!-------------------- 视点新闻区 -------------------->
+<div id="sdnews" class="clearfix w1000">
+<div class="a1">
+<ul><li>
+<span><a href="https://sichuan.scol.com.cn/gcdt/201905/56865221.html">彭清华参观第八届四川国际茶业博览会</a></span><br />&middot;<a href="https://sichuan.scol.com.cn/dwzw/201905/56865308.html" target="_blank">茶博会|首设&quot;出口馆&quot;进军国际市场</a>&nbsp;<a href="https://sichuan.scol.com.cn/dwzw/201905/56865362.html" target="_blank">锁定青年消费群体</a><br />
+&middot;<a href="https://sichuan.scol.com.cn/ggxw/201905/56865119.html" target="_blank"><span style="color:#2980b9">川报全媒体集群融媒体采访&quot;探访国家级试验区&quot;出发</span></a><br />
+&middot;<a href="https://sichuan.scol.com.cn/dwzw/201905/56865299.html" target="_blank">对话183|米易县委书记：让百姓以&quot;我是米易人&quot;自豪</a>
+</li></ul>
+<ul><li>
+<span><a href="https://sichuan.scol.com.cn/ggxw/201905/56865236.html">四川2019年统一高考6月7日-8日进行</a></span><br />&middot;<a href="https://sichuan.scol.com.cn/dwzw/201905/56865316.html" target="_blank">四川高考规定出台 时间科目不变本科平行志愿增至9个</a><br />
+&middot;<a href="https://sichuan.scol.com.cn/ggxw/201905/56864910.html" target="_blank">成德国宝旅游专线开通</a>&nbsp;<a href="https://sichuan.scol.com.cn/dwzw/201905/56865306.html" target="_blank">&quot;一辆车&quot;玩转两地精华景点</a>
+</li></ul>
+<ul><li>
+<span><a href="https://sichuan.scol.com.cn/cddt/201905/56865324.html">今日立夏：风雨齐上线 成都最高气温20℃</a></span><br />&middot;<a href="https://sichuan.scol.com.cn/dwzw/201905/56865300.html" target="_blank">预计5月强降水天气过程增多 中下旬将有2次较强降水</a><br />
+&middot;<a href="https://sichuan.scol.com.cn/dwzw/201905/56865301.html" target="_blank">成都&quot;六大行动&quot;改善空气质量 科技手段&quot;智慧治气&quot;</a>
+</li></ul>
+</div>
+<div class="a2">
+<!-- 焦点图切换 -->
+<script language="javascript" type="text/javascript" charset="utf-8" src="js/myfocus/js/myfocus.js"></script>
+<style>
+#myFocus{width:495px; height:295px; overflow:hidden;}
+#myFocus .pic li img{width:495px; height:295px;}
+</style>
+<div id="myFocus" style="height:295px; overflow:hidden;">
+<div class="pic"><ul>
+<li><a href='https://focus.scol.com.cn/gjyw/201905/56865406.html'><img alt='视频丨俄客机着火致41人死亡 遇难者中没有中国公民' text='视频丨俄客机着火致41人死亡 遇难者中没有中国公民' src='//www.scol.com.cn/pic/20190506/20190506084612_4202.jpg' border='0'></a></li>
+<li><a href='https://photo.scol.com.cn/xc/201905/56865248.html'><img alt='成都人买花将有新去处！“绿道花市”来袭' text='成都人买花将有新去处！“绿道花市”来袭' src='//www.scol.com.cn/pic/20190505/20190505195321_5054.jpg' border='0'></a></li>
+<li><a href='https://sichuan.scol.com.cn/cddt/201905/56865320.html'><img alt='比利时小伙来蓉开酒吧 为外国人推广成都美食和文化' text='比利时小伙来蓉开酒吧 为外国人推广成都美食和文化' src='//www.scol.com.cn/pic/20190506/20190506075604_1068.jpg' border='0'></a></li>
+<li><a href='https://sichuan.scol.com.cn/dwzw/201905/56865325.html'><img alt='不文明行为煞风景 &quot;地表之泪&quot;格聂之眼植被遭碾压' text='不文明行为煞风景 &quot;地表之泪&quot;格聂之眼植被遭碾压' src='//www.scol.com.cn/pic/20190506/20190506071311_4286.jpg' border='0'></a></li>
+<li><a href='https://sichuan.scol.com.cn/fffy/201905/56865023.html'><img alt='机器人同台走秀 高校五四晚会尽现科技之光' text='机器人同台走秀 高校五四晚会尽现科技之光' src='//www.scol.com.cn/pic/20190505/20190505121340_6641.jpg' border='0'></a></li>
+<li><a href='https://sichuan.scol.com.cn/ggxw/201904/56861936.html'><img alt='成都银行年报：&ldquo;大零售&rdquo;战略表现抢眼 经营效益稳步提升' text='成都银行年报：&ldquo;大零售&rdquo;战略表现抢眼 经营效益稳步提升' src='//www.scol.com.cn/pic/20190429/20190429090339_4567.jpg' border='0'></a></li>
+</ul></div>
+</div>
+<script>
+myFocus.set({
+	id:'myFocus',
+	pattern:'mF_pithy_scol'
+});
+</script>
+<!-- 焦点图切换结束 -->
+</div>
+</div>
+<!-------------------- 推荐新闻区 -------------------->
+<div id="tjnews" class="clearfix w1000">
+<div class="a1">
+<ul><li>
+·<a href="https://focus.scol.com.cn/zgsz/201905/56865531.html"><b>央行：5月15日开始对中小银行实行较低存款准备金率</b></a><br>
+
+·<a href="https://sichuan.scol.com.cn/cddt/201905/56865329.html">5月8日-8月31日 凤凰立交北星高架上行匝道禁行</a><br>
+·<a href="https://sichuan.scol.com.cn/ggxw/201905/56865274.html">快来看看你身边的榜样！团省委表扬一批先进|名单</a><br>
+·<a href="https://sichuan.scol.com.cn/ggxw/201905/56865616.html">四川省教育学会换届 选举刘东为新一届理事会会长</a><br>
+·<a href="https://sichuan.scol.com.cn/fffy/201905/56865572.html">安岳县人大常委会党组成员、副主任刘正华被查</a><br>
+·<a href="https://sichuan.scol.com.cn/ggxw/201905/56865410.html">原隆昌市公安局副局长范勇因受贿、妨害作证获刑4年</a><br>
+·<a href="https://sichuan.scol.com.cn/dwzw/201905/56865364.html">审批与监控双管齐下&nbsp;野外放生能否少点&ldquo;荒唐事&rdquo;？</a><br>
+
+·<a href="https://sichuan.scol.com.cn/ggxw/201905/56865526.html"><b>广元女子被撞后遭碾压后续：驾驶员已被刑拘</b></a><br>
+
+·<a href="https://sichuan.scol.com.cn/cddt/201905/56865322.html">&quot;真学霸&quot;or&quot;假认真&quot; 朋友圈打卡式学习 你支持吗?</a><br>
+·<a href="https://sichuan.scol.com.cn/cddt/201905/56865319.html">&quot;黑豹&quot;特警李建华 毒贩劫持8人质 他用身体扑枪口</a><br>
+·<a href="https://sichuan.scol.com.cn/dwzw/201905/56865326.html">舞蹈老师漫水桥上赤脚拍抖音 拍完下河洗脚不幸溺亡</a><br>
+·<a href="https://sichuan.scol.com.cn/sczh/201905/56865384.html">2980元茶盘运输中受损 曝光后快递公司的赔偿涨了</a><br>
+·<a href="https://focus.scol.com.cn/shwx/201905/56865129.html">我活着出来啦！羌塘无人区失联50天后，驴友找到了</a><br>
+·<a href="https://sichuan.scol.com.cn/ggxw/201905/56865416.html">原开江县人大常委会主任赵大立涉嫌受贿被提起公诉</a><br>
+</li></ul>
+<ul><li>
+·<a href="https://focus.scol.com.cn/zgsz/201905/56865353.html"><b>买短乘长？中铁总表示强行越站乘车将加收50%票款</b></a><br>
+
+·<a href="https://focus.scol.com.cn/zgsz/201905/56864899.html">传承责任与担当 蒙牛员工参与&ldquo;十四冬&rdquo;火炬传递</a><br>
+·<a href="https://focus.scol.com.cn/zgsz/201905/56865354.html">今年国家公务员补录3046人 5月13日后可查询结果</a><br>
+·<a href="https://focus.scol.com.cn/shwx/201905/56865358.html">游客住爱彼迎发现偷拍设备 这样揪出了隐形摄像头</a><br>
+</li></ul>
+<!-- 市州联播 -->
+<div id="btcol">
+<div class="btcol_title col-2">市州联播</div>
+<div class="btcol_more morelink">&nbsp;</div>
+</div>
+<div id="newslist">
+<ul class="clearfix">
+<li class="newstxt t2-3 clearfix"><a href="https://sichuan.scol.com.cn/abxw/201905/56864530.html"><b>松潘举办&quot;高原古城贺华诞 松潘儿女颂祖国&quot;活动</b></a></li>
+<li class="newspic"><a href="https://sichuan.scol.com.cn/abxw/201905/56864530.html"><img src="//www.scol.com.cn/pic/20190506/20190506074311_3338.jpg" width="180" height="120"></a></li>
+<li class="newstxt t2" style="width:150px; font-size:12px; line-height:24px;">为祝福祖国70周年华诞，充分反映松潘县在改革开放、奋斗实践中取得的成就，松潘举办&quot;古城贺华诞 儿女颂祖国&quot;活动。</li>
+</ul>
+<ul><li class="newstxt2 t2-2">
+<a href="https://sichuan.scol.com.cn/bzxw/201905/56864367.html">巴中｜四川巴中至深圳银川新开航线 票价低至230元</a><br>
+<a href="https://sichuan.scol.com.cn/ybxw/201905/56865317.html">宜宾｜坚守大山22年病倒 八方支援 希望老师重回讲堂</a><br>
+<a href="https://sichuan.scol.com.cn/lzxw/201905/56865327.html">泸州｜10岁女孩&ldquo;偷拿&rdquo;童书 背后故事伤心又感人</a><br>
+<a href="https://sichuan.scol.com.cn/gaxw/201905/56865328.html">广安｜男童家门口被拐 他守着酒铺10年找回被拐儿子</a><br>
+<a href="https://sichuan.scol.com.cn/zyxw/201905/56865113.html">资阳｜资阳全城寻找非遗传艺人！投票窗口0时启动</a><br>
+<a href="https://sichuan.scol.com.cn/dyxw/201905/56865321.html">德阳｜2980元茶盘运输中受损 快递公司只愿赔1000元</a><br>
+</li></ul>
+</div>
+</div>
+<div class="a2">
+<div id="btcol" style="background:#fff url(images/15scol_r17_c5a.jpg) repeat-x; border:none;">
+<div class="btcol_title col-2"><a href="https://more.scol.com.cn/"><img src="images/spacer.gif" width="220" height="33"></a></div>
+<div class="btcol_more morelink">&nbsp;</div>
+</div>
+<div id="newslist">
+<div id="more_dsj">
+<ul>
+<li><a href="http://topic.scol.com.cn/more/2019/19scxyq_m/index_pc.html"><img src="//www.scol.com.cn/pic/20190415/20190415153626_4966.gif" width="200" height="110"></a><div class="pic_dask"><b>您有一封来自四川的邀请函</b></div></li>
+<li><a href="https://more.scol.com.cn/sjxw/201904/56845038.html"><img src="//www.scol.com.cn/pic/20190401/20190401152421_3747.gif" width="200" height="110"></a><div class="pic_dask"><b>如果有机会，我想对你说</b></div></li>
+<li><a href="https://more.scol.com.cn/sjbg/201903/56841409.html"><img src="//www.scol.com.cn/pic/20190326/20190326155223_1994.gif" width="200" height="110"></a><div class="pic_dask"><b>AI+大数据 解读司法部重组这一年</b></div></li>
+</ul>
+</div>
+</div>
+<div id="btcol" style="background:#fff url(images/15scol_r17_c5.jpg) repeat-x; border:none;">
+<div class="btcol_title col-2"><a href="https://video.scol.com.cn">视频</a></div>
+<div class="btcol_more morelink">&nbsp;</div>
+</div>
+<div id="newslist">
+<ul style="margin-bottom:10px;" class="clearfix">
+<li class="newspic"><a href="https://video.scol.com.cn"><img src="//video.scol.com.cn/pic/20190429/20190429101716_8357.jpg" width="200" height="110"></a></li>
+<li class="newstxt t2-3" style="width:365px; height:100px; padding:0 20px; padding-top:10px; background:#F0F4F8; overflow:hidden;"><a href="https://video.scol.com.cn"><b>萌萌哒3D游戏 带你&ldquo;走&rdquo;遍大美四川！</b></a><br>天府三九大，安逸走四川！四川省文化和旅游发展大会今日在成都举行，四川在线携川报观察APP共同推出三维互动小游戏《安逸走四川》，带你以超新奇超萌的视角，领略大美四川！</li>
+</ul>
+<ul style="width:49.999%; float:left;">
+<li class="newspic"><a href="http://video.scol.com.cn/"><img src="//video.scol.com.cn/pic/20190505/20190505095202_6602.jpg" width="94" height="65"></a>
+</li>
+<li class="newstxt t1" style="width:180px;">
+<img src="images/15scol_a1.gif" width="14" height="8">&nbsp;<a href="https://video.scol.com.cn/jx/201905/56864870.html">全球首例3D打印&quot;完整心脏&quot;</a><br>
+<img src="images/15scol_a1.gif" width="14" height="8">&nbsp;<a href="https://video.scol.com.cn/jx/201905/56864876.html">五一世园会接待32.7万人次</a><br>
+<img src="images/15scol_a1.gif" width="14" height="8">&nbsp;<a href="https://video.scol.com.cn/jx/201905/56864879.html">&quot;忍者&quot;收垃圾市民直呼好可爱</a><br>
+</li>
+</ul>
+<ul style="width:49.999%; float:left;">
+<li class="newspic"><a href="http://video.scol.com.cn/"><img src="//video.scol.com.cn/pic/20190505/20190505095510_0393.jpg" width="94" height="65"></a>
+</li>
+<li class="newstxt t1" style="width:180px;">
+<img src="images/15scol_a1.gif" width="14" height="8">&nbsp;<a href="https://video.scol.com.cn/mx/201904/56863400.html">吴亦凡邓伦等齐聚成都时尚展</a><br>
+<img src="images/15scol_a1.gif" width="14" height="8">&nbsp;<a href="https://video.scol.com.cn/sdtp/201904/56858835.html">复联4上映你猜对剧情了吗</a><br>
+<img src="images/15scol_a1.gif" width="14" height="8">&nbsp;<a href="https://video.scol.com.cn/zj/201904/56863529.html">两只大熊猫启程前往俄罗斯</a><br>
+</li>
+</ul>
+<div class="clear"></div>
+</div>
+<div class="b1">
+<!-- 天府时评开始 -->
+<div id="btcol">
+<div class="btcol_title col-2"><a href="https://ly.scol.com.cn">问政四川</a></div>
+<div class="btcol_more morelink">&nbsp;</div>
+</div>
+<div id="newslist">
+<ul><li class="newstxt t2-3">
+<a href="https://ly.scol.com.cn/thread?tid=2773290"><b>曝光：收费不开票!峨眉山停车场高价坑游客</b></a><br>报国寺建国四组停车场，停留耗时20分钟，执意收取20元停车费，我们在给了20元停车费后没有开具发票
+</li></ul>
+<ul><li class="newstxt2 t2-2">
+·<a href="https://ly.scol.com.cn/thread?tid=2773334">[凉山]投诉：会东县国际香江顺河烧烤油烟噪声扰民</a><br>
+·<a href="https://ly.scol.com.cn/thread?tid=2773329">[省直]举报：巴中民胜镇中心小学有偿收费课外服务</a><br>
+·<a href="https://ly.scol.com.cn/thread?tid=2773300">[成都]举报：高新区雅河南四路占道停车现象太严重</a><br>
+·<a href="https://ly.scol.com.cn/thread?tid=2773317">[成都]咨询：彭州老社保卡停用，怎么换领新社保卡</a><br>
+</li></ul>
+</div>
+<div class="clear"></div>
+<!-- 天府时评结束 -->
+<!-- 天府社区开始 -->
+<div id="btcol">
+<div class="btcol_title col-2"><a href="https://bbs.scol.com.cn">天府社区</a></div>
+<div class="btcol_more morelink">&nbsp;</div>
+</div>
+<div id="newslist">
+<ul>
+<li class="newstxt t2-3"><a href="https://bbs.scol.com.cn/thread-15253786-1-1.html"><b>廊桥夕阳蓝 成都夜晚最漂亮的一处景</b></a></li>
+<li class="newspic"><a href="https://bbs.scol.com.cn/thread-15253786-1-1.html"><img src="//www.scol.com.cn/pic/20190505/20190505094852_4045.jpg" width="180" height="120"></a></li>
+<li class="newstxt t2" style="width:150px; line-height:24px;">&nbsp;&nbsp;&nbsp;安顺廊桥的夜景，应该说是成都最美丽之一，站在府南河边远眺廊桥，灯光璀璨的它倒影在迷人的府南河上，十分靓丽。</li>
+</ul>
+<ul><li class="newstxt2 t2-2">
+·<a href="https://bbs.scol.com.cn/thread-15254066-1-1.html">[城市]实拍成都多彩天空 最好看的绝对不只是蓝天[图]</a><br>
+·<a href="https://bbs.scol.com.cn/thread-15252103-1-1.html">[城市]30多年前老照片 今昔对比看遂宁翻天覆地变化</a><br>
+·<a href="https://bbs.scol.com.cn/thread-15253743-1-1.html">[大千世界]日渐消失的绝美风景 墨尔本&ldquo;十二使徒岩&rdquo;</a><br>
+</li></ul>
+</div>
+<!-- 天府社区结束 -->
+</div>
+<div class="b2">
+<!-- 集团报刊菜单开始 -->
+<div id="lr_systembox">
+<div id="lr_systembtn" class="lr_systembtn">
+<a class="lr_abtn" style="cursor:hand;">【四川日报报业集团媒体群】<span><img src="images/15scol_a2.gif" width="15" height="14"/></span></a>
+<div id="lr_menu" class="lr_menu">
+<ul><li>
+<a href="http://epaper.scdaily.cn">四川日报</a> <a href="http://country.scol.com.cn/">四川农村日报</a> <a href="http://www.wccdaily.com.cn">华西都市报</a> <a href="https://e.thecover.cn/shtml/index_tfzb.shtml">天府早报</a> <a href="http://dzb.scfzbs.com">四川法治报</a> <a href="http://stocknews.scol.com.cn">金融投资报</a> <a href="http://digest.scol.com.cn">文摘周报</a> <a href="http://xzb.scol.com.cn">消费质量报</a> <a href="http://epaper.scol.com.cn/rlzyb/">人力资源报</a> <a href="http://www.etxcs.com">川商杂志</a> <a href="http://homelife.scol.com.cn">家庭与生活报</a> <a href="http://www.lzlw.cn">廉政瞭望</a> <a href="http://stocknews.scol.com.cn/">周末证券</a> <a href="http://xwj.scol.com.cn">新闻界</a>
+</li></ul>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+$(function(){
+	var lr_systembtn = $("#lr_systembtn");
+	var lr_menu = $("#lr_menu");
+	lr_systembtn.mouseenter(function(){
+		t_delay= setTimeout(function(){
+			lr_menu.fadeIn("slow");
+		},200);
+	});
+	lr_systembtn.mouseleave(function(){
+		clearTimeout(t_delay);
+		lr_menu.fadeOut("slow");
+	});
+});
+</script>
+<!-- 集团报刊菜单结束 -->
+
+<div id="newslist" style="text-align:center; line-height:30px; word-spacing:10px"><a href="http://epaper.scdaily.cn/" class="t1link">[四川日报]</a> <a href="http://www.wccdaily.com.cn/" class="t1link">[华西都市报]</a> <a href="https://e.thecover.cn/shtml/index_tfzb.shtml" class="t1link">[天府早报]</a></div>
+<!-- 品牌推广开始 -->
+<script language="javascript" type="text/javascript" src="js/jquery.pptg.js"></script>
+<div id="xhProduce">
+<div class="produce">
+<div class="item item01">
+<a href="https://cbgc.scol.com.cn">川报<br>观察</a>
+<div class="cover" data-w="153px">
+<i></i>
+<p class="summary">“掌握中心思想”的使命担当，成为四川第一政经客户端和拥有同名微信、手机微网站、头条号的新媒体平台。</p>
+</div>
+</div>
+<div class="item item02">
+<a href="https://scdaily.scol.com.cn">四川日报网</a>
+<div class="cover" data-h="121px">
+<i></i>
+<p class="summary">公信 主流 互动 沟通<br>专注服务于党政群体</p>
+</div>
+</div>
+<div class="item item03">
+<a href="http://scnews.scol.com.cn">四川<br>新闻</a>
+<div class="cover" data-w="153px">
+<i></i>
+<p class="summary">移动端主流舆论新阵地、全媒体立体应用服务平台、四川手机第一新闻门户！</p>
+</div>
+</div>
+<div class="item item04">
+<a href="images/pic/sjb.html">华西手机报</a>
+<div class="cover" data-h="60px">
+<i></i>
+<p class="summary">华西手机报是老百姓的资讯秘书和生活顾问，早报知天下，晚报享悠闲。</p>
+</div>
+</div>
+<div class="item item05">
+<a href="http://weibo.com/p/1002063167104922/">四川日报<br>微信微博</a>
+<div class="cover" data-h="121px">
+<i></i>
+<p class="summary">权威 速度 温度 态度<br>
+全国党报官微十强</p>
+</div>
+</div>
+<div class="item item06">
+<a href="http://www.scph.cn">视觉<br>四川</a>
+<div class="cover" data-h="121px">
+<i></i>
+<p class="summary">新型全媒体图片、视觉产品新媒体营销平台；为省内外客户提供各类图片产品和衍生的摄影服务。</p>
+</div>
+</div>
+</div>
+</div>
+<!-- 品牌推广结束 -->
+<!-- 天府时评切换 -->
+<div id="boxtab-2">
+<dl class="tnav">
+<dt onClick="javascript:window.open('https://comment.scol.com.cn/');">天府时评</dt>
+<dt onClick="javascript:window.open('#');">微评成都</dt>
+</dl>
+<dl class="tcontent">
+<dd>
+<div id="newslist">
+<ul><li class="newstxt2 t1-2" style="line-height:28px;">
+·<a href="//www.scol.com.cn/tfsp/201905/56865448.html"><strong><a href="http://comment.scol.com.cn/" target="_blank">擅自破坏&quot;格聂之眼&quot;不能止于约谈</a></strong></a><br>
+·<a href="//www.scol.com.cn/tfsp/201905/56865447.html"><a href="http://comment.scol.com.cn/html/2019/05/011012_1721159.shtml" target="_blank">加收50％票款，良策还是&quot;添堵&quot;？</a></a><br>
+·<a href="//www.scol.com.cn/tfsp/201905/56865446.html"><a href="http://comment.scol.com.cn/html/2019/05/011009_1721168.shtml" target="_blank">面对&quot;人山人海&quot;如何休假仍需探讨</a></a><br>
+·<a href="//www.scol.com.cn/tfsp/201905/56865444.html"><a href="http://comment.scol.com.cn/html/2019/05/011012_1721177.shtml" target="_blank">厘清谁是拦截骚扰电话的主力军？</a></a><br>
+·<a href="//www.scol.com.cn/tfsp/201905/56865443.html"><strong><a href="http://comment.scol.com.cn/html/2019/05/011009_1721146.shtml" target="_blank">&quot;代吵架&quot;穿着服务外衣的违法行为</a></strong></a><br>
+·<a href="//www.scol.com.cn/tfsp/201905/56865442.html"><a href="http://comment.scol.com.cn/html/2019/05/011009_1721153.shtml" target="_blank">德云社演员遇困不能向社会求助？</a></a><br>
+·<a href="//www.scol.com.cn/tfsp/201905/56865441.html"><a href="http://comment.scol.com.cn/html/2019/05/011011_1721164.shtml" target="_blank">高质量&quot;读屏&quot;不仅是缺少优质内容</a></a><br>
+·<a href="//www.scol.com.cn/tfsp/201905/56865439.html"><a href="http://comment.scol.com.cn/html/2019/05/011012_1721165.shtml" target="_blank">吃个&quot;小龙虾&quot;就别麻烦&quot;剥虾师&quot;了</a></a><br>
+</li></ul>
+</div>
+</dd>
+<dd>
+<div id="newslist">
+<ul><li class="newstxt2 t1-2" style="line-height:28px;">
+·<a href="//www.scol.com.cn/wpcd/201905/56864181.html"><a href="http://comment.scol.com.cn/html/2019/05/011013_1721064.shtml" target="_blank">&quot;成都工匠&quot;品牌凝聚治蜀兴川新力量</a></a><br>
+·<a href="//www.scol.com.cn/wpcd/201904/56857325.html"><a href="http://comment.scol.com.cn/html/2019/04/011013_1720757.shtml" target="_blank">成都公园城市提供城市建设范本</a></a><br>
+·<a href="//www.scol.com.cn/wpcd/201904/56850717.html"><a href="https://comment.scol.com.cn/html/2019/04/011013_1720388.shtml" target="_blank">&quot;成都速度&quot;是破解&quot;蜀道难&quot;的见证</a></a><br>
+·<a href="//www.scol.com.cn/wpcd/201904/56850716.html"><a href="https://comment.scol.com.cn/html/2019/04/011013_1720383.shtml" target="_blank">公园城市成为成都靓丽的世界名片</a></a><br>
+·<a href="//www.scol.com.cn/wpcd/201904/56850715.html"><a href="https://comment.scol.com.cn/html/2019/04/011013_1720377.shtml" target="_blank">网络名人赞成都 幸福成都更幸福</a></a><br>
+·<a href="//www.scol.com.cn/wpcd/201904/56850714.html"><a href="https://comment.scol.com.cn/html/2019/04/011013_1720385.shtml" target="_blank">七里诗乡是乡村振兴一个样本</a></a><br>
+·<a href="//www.scol.com.cn/wpcd/201904/56850713.html"><a href="https://comment.scol.com.cn/html/2019/04/011013_1720376.shtml" target="_blank">&ldquo;川味明星村&rdquo;擦亮四川品牌</a></a><br>
+·<a href="//www.scol.com.cn/wpcd/201903/56842797.html"><a href="http://comment.scol.com.cn/html/2019/03/011006_1719942.shtml" target="_blank">让人才发展的主干更加枝繁叶茂</a></a><br>
+</li></ul>
+</div>
+</dd>
+</dl>
+</div>
+<!-- 天府时评切换结束 -->
+<!-- 按钮广告1 -->
+<div id="afp_ad" class="scolad_close">
+<!-- 首页-A按钮1 尺寸：230x0 -->
+<div class="yxtposter" token="A5BCF222A25EAA5E1A001F19622F26F3"></div>
+<!-- 首页-A按钮2 尺寸：230x0 -->
+<div class="yxtposter" token="1D35A662726E7C1AE256876BE2D5C6A8"></div>
+<!-- 首页-A按钮3 尺寸：230x0 -->
+<div class="yxtposter" token="F9825D6E7827C10B00D30A170C3B471C"></div>
+<!-- 首页-A按钮4 尺寸：230x0 -->
+<div class="yxtposter" token="1D818C1559B84059656C3A73C73CA25A"></div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+<!-- 半通栏广告2 -->
+<div id="afp_ad" class="scolad_close clearfix w1000">
+<ul style="display:table;">
+<li class="fl">
+<!-- 首页-半通栏（左）2 尺寸：499x0 -->
+<div class="yxtposter" token="4217DC49AA8D3EB5C85099C0756E37CB"></div>
+</li>
+<li class="fr">
+<!-- 首页-半通栏（右）2 尺寸：499x0 -->
+<div class="yxtposter" token="A1199E47E0FC7F605E47D9EBA153B577"></div>
+</li>
+</ul>
+</div>
+<div class="clear"></div>
+<!-- 通栏广告2 -->
+<div id="afp_ad" class="scolad_close clearfix w1000">
+<!-- 首页-B通栏1 尺寸：1000x0 -->
+<div class="yxtposter" token="A8F6F68E3295B222909A521D1712D6D5"></div>
+<!-- 首页-B通栏2 尺寸：1000x0 -->
+<div class="yxtposter" token="C4BDE1407955CFB4924BE841C46A7C46"></div>
+<!-- 首页-B通栏3 尺寸：1000x0 -->
+<div class="yxtposter" token="363B615F0DBCBF1B5723C853A153CE2C"></div>
+<!-- 首页-B通栏4 尺寸：1000x0 -->
+<div class="yxtposter" token="F02AF7B230307663F959B8350A71E455"></div>
+<!-- 首页-B通栏5 尺寸：1000x0 -->
+<div class="yxtposter" token="7589A0ABC85BF078E3D3234B1D34DAF6"></div>
+</div>
+<div class="clear"></div>
+
+<!-------------------- 图片新闻区 -------------------->
+<div id="picnews" class="clearfix w1000">
+<div class="a1"><ul><li>
+<a href="https://photo.scol.com.cn/xc/201905/56864596.html"><img src="//photo.scol.com.cn/pic/20190505/20190505092749_3902.jpg" width="385" height="260"></a><div class="pic_dask"><b>天府大熊猫萌萌哒的表情</b></div>
+</li>
+</ul></div>
+<div class="a2">
+<ul>
+<li><a href="https://photo.scol.com.cn/tj/201905/56864576.html"><img src="//photo.scol.com.cn/pic/20190505/20190505093135_2564.jpg" width="190" height="125"></a><div class="pic_dask"><b>军营里的&quot;致青春&quot; 五四青年节</b></div></li>
+<li><a href="https://photo.scol.com.cn/rw/201905/56864263.html"><img src="//photo.scol.com.cn/pic/20190505/20190505093105_3652.jpg" width="190" height="125"></a><div class="pic_dask"><b>景区直通车司机:节假日就是最忙碌的时刻</b></div></li>
+<li><a href="https://photo.scol.com.cn/xc/201905/56864459.html"><img src="//photo.scol.com.cn/pic/20190505/20190505093025_1293.jpg" width="190" height="125"></a><div class="pic_dask"><b>国际茶博览会上品四川盖碗茶</b></div></li>
+<li><a href="https://photo.scol.com.cn/xc/201905/56864336.html"><img src="//photo.scol.com.cn/pic/20190505/20190505093000_6288.jpg" width="190" height="125"></a><div class="pic_dask"><b>德阳五星村被宠爱</b></div></li>
+<li><a href="https://photo.scol.com.cn/rw/201905/56864731.html"><img src="//photo.scol.com.cn/pic/20190505/20190505092848_5009.jpg" width="190" height="125"></a><div class="pic_dask"><b>林志玲现身蓉城 自爆爱吃辣</b></div></li>
+<li><a href="https://photo.scol.com.cn/xc/201904/56860021.html"><img src="//photo.scol.com.cn/pic/20190428/20190428085109_6774.jpg" width="190" height="125"></a><div class="pic_dask"><b>成都农博会上看稀奇</b></div></li>
+</ul>
+</div>
+</div>
+<!-- 通栏广告3 -->
+<div id="afp_ad" class="scolad_close clearfix w1000">
+<!-- 首页-C通栏1 尺寸：1000x0 -->
+<div class="yxtposter" token="8A33AB1E0375AC2C9E60BD6515ADCE66"></div>
+<!-- 首页-C通栏2 尺寸：1000x0 -->
+<div class="yxtposter" token="5E9BD2945CAB1FECB78E3C7524423224"></div>
+<!-- 首页-C通栏3 尺寸：1000x0 -->
+<div class="yxtposter" token="F8D23A902BEDF00D20CA0921D6CF8246"></div>
+<!-- 首页-C通栏4 尺寸：1000x0 -->
+<div class="yxtposter" token="CB22A1100FFEC2CB0A08428DD293CC68"></div>
+<!-- 首页-C通栏5 尺寸：1000x0 -->
+<div class="yxtposter" token="BC2A52BE13E83FA7C1BF25AFCD0F3188"></div>
+</div>
+<!-------------------- 频道新闻区-新闻类 -------------------->
+<div id="pdnews" class="clearfix w1000">
+<div class="a1">
+<div class="b1">
+<div id="btcol2">
+<div class="btcol2_title col-2"><a href="https://focus.scol.com.cn">时 事</a></div>
+<div class="btcol_more morelink"><a href="https://focus.scol.com.cn/zgsz/">[中国新闻]</a> <a href="https://focus.scol.com.cn/gjyw/">[环球博览]</a></div>
+</div>
+<div id="newslist">
+<ul class="newspic2"><li>
+<a href="//focus.scol.com.cn/scol_focus/201905/56865505.html"><img src="//focus.scol.com.cn/pic/20190506/20190506093003_0622.jpg" width="350" height="195"></a><div class="pic_dask f14"><b>北大博士：我在雄安当村官</b></div>
+</li>
+</ul>
+</div>
+<div id="newslist">
+<ul class="newstxt2 t2-2"><li>
+·<a href="//focus.scol.com.cn/scol_focus/201905/56865476.html">国人五一游玩账单来了！看你超预算了吗？</a><br>
+·<a href="//focus.scol.com.cn/scol_focus/201905/56865475.html">游客青岛住民宿上演教科书式反偷拍 房主已被行拘</a><br>
+·<a href="//focus.scol.com.cn/scol_focus/201905/56865431.html">立夏习俗知多少？食用五色饭 称人以验肥瘦</a><br>
+·<a href="//focus.scol.com.cn/scol_focus/201905/56865428.html">数百亿银行存款消失 康美药业隐瞒资金被占用</a><br>
+·<a href="//focus.scol.com.cn/scol_focus/201905/56865426.html">巴以冲突升温以色列加大攻击力度 联合国吁停火</a><br>
+·<a href="//focus.scol.com.cn/scol_focus/201905/56865425.html">济南一制药公司事故致10死 国务院安委会挂牌督办</a><br>
+·<a href="//focus.scol.com.cn/scol_focus/201905/56865423.html">国考将补录3000余人 考生今起可提交调剂申请</a><br>
+</li></ul>
+</div>
+</div>
+<div class="b2">
+<div id="btcol2">
+<div class="btcol2_title col-2"><a href="https://ent.scol.com.cn">娱 乐</a></div>
+<div class="btcol_more morelink"><a href="https://ent.scol.com.cn/gatylkb/">[明星新闻]</a></div>
+</div>
+<div id="newslist">
+<ul class="newspic2"><li>
+<a href="//ent.scol.com.cn/scol_yl/201905/56865566.html"><img src="//ent.scol.com.cn/pic/20190506/20190506095845_1673.jpg" width="350" height="195"></a><div class="pic_dask f14"><b>张伦硕妈妈评价钟丽缇：再小几岁就完美了</b></div>
+</li>
+</ul>
+</div>
+<div id="newslist">
+<ul class="newstxt2 t2-2"><li>
+·<a href="//ent.scol.com.cn/scol_yl/201905/56865564.html">林心如晒蛋糕提前过母亲节 女儿唱歌送祝福</a><br>
+·<a href="//ent.scol.com.cn/scol_yl/201905/56865562.html">德云社吴帅众筹争议，消耗演艺名人公信力</a><br>
+·<a href="//ent.scol.com.cn/scol_yl/201905/56865560.html">倪大红：一张&ldquo;面瘫脸&rdquo;，却深藏表演万象</a><br>
+·<a href="//ent.scol.com.cn/scol_yl/201905/56865558.html">《何以为家》票房破亿 成五一档最大黑马</a><br>
+·<a href="//ent.scol.com.cn/scol_yl/201905/56865556.html">毛卫宁：拍爱情片，我也担心跟不上潮流</a><br>
+·<a href="//ent.scol.com.cn/scol_yl/201905/56864955.html">德云社吴鹤臣骗捐？居委会：吴家情况属实</a><br>
+·<a href="//ent.scol.com.cn/scol_yl/201905/56864951.html">《权力的游戏》狼家姐妹花真的长大了</a><br>
+</li></ul>
+</div>
+</div>
+<div class="clear"></div>
+<div class="b1">
+<div id="btcol2">
+<div class="btcol2_title col-2"><a href="https://teach.scol.com.cn">教 育</a></div>
+<div class="btcol_more morelink"><a href="https://teach.scol.com.cn/013/">[教育视点]</a> <a href="https://teach.scol.com.cn/cczx/">[成长资讯]</a></div>
+</div>
+<div id="newslist">
+<ul class="newspic2"><li>
+<a href="https://teach.scol.com.cn/013/201904/56858010.html"><img src="//teach.scol.com.cn/pic/20190423/20190423111838_9946.jpg" width="350" height="195"></a><div class="pic_dask f14"><b>&ldquo;一带一路 &bull; 手拉手&rdquo;十国少年中国行成都站活动成功举办</b></div>
+</li>
+</ul>
+</div>
+<div id="newslist">
+<ul class="newstxt2 t2-2"><li>
+·<a href="https://teach.scol.com.cn/013/201905/56865144.html">2019年职业教育活动周于明日正式开幕</a><br>
+·<a href="https://teach.scol.com.cn/013/201905/56865143.html">高校师生热议习近平总书记在纪念五四运动100周年大会上的重要讲话</a><br>
+·<a href="https://teach.scol.com.cn/013/201904/56861626.html">先期重点建设培育的产教融合型企业建议名单公布</a><br>
+·<a href="https://teach.scol.com.cn/013/201904/56861625.html">75所教育部直属高校公布今年预算</a><br>
+·<a href="https://teach.scol.com.cn/013/201904/56859049.html">8省市发高考改革方案：分类考试 综合评价 多元录取</a><br>
+·<a href="https://teach.scol.com.cn/013/201904/56859050.html">高校专业点跟着需求转&nbsp;新增2072个撤销416个</a><br>
+·<a href="https://teach.scol.com.cn/013/201904/56859053.html">驻英使馆提醒中国留学新生：防范电信诈骗</a><br>
+</li></ul>
+</div>
+</div>
+<div class="b2">
+<div id="btcol2">
+<div class="btcol2_title col-2"><a href="https://women.scol.com.cn">生 活</a></div>
+<div class="btcol_more morelink"></div>
+</div>
+<div id="newslist">
+<ul class="newspic2"><li>
+<a href="https://women.scol.com.cn/mls/201905/56864902.html"><img src="//women.scol.com.cn/pic/20190505/20190505100931_9357.jpg" width="350" height="195"></a><div class="pic_dask f14"><b>一种食品添加剂可能是&ldquo;代谢破坏者&rdquo;</b></div>
+</li>
+</ul>
+</div>
+<div id="newslist">
+<ul class="newstxt2 t2-2"><li>
+·<a href="https://women.scol.com.cn/sdxw/201905/56864905.html">今年重回时尚圈的猫跟鞋你get了吗</a><br>
+·<a href="https://it.scol.com.cn/jd/201905/56864907.html">我国正加快IPv6规模部署</a><br>
+·<a href="https://women.scol.com.cn/mls/201904/56863639.html">网红美食为啥&ldquo;凉凉&rdquo;？</a><br>
+·<a href="http://shipin.people.com.cn/n1/2019/0429/c85914-31056606.html">整治&ldquo;保健&rdquo;市场百日&nbsp;直销产品核减四成</a><br>
+·<a href="https://women.scol.com.cn/sdxw/201904/56863626.html">教你4招，分清化学防晒和物理防晒</a><br>
+·<a href="https://it.scol.com.cn/jd/201904/56863630.html">滴滴网约车CEO：年内设立2000名司机服务经理</a><br>
+·<a href="https://it.scol.com.cn/jd/201904/56863628.html">苹果开官微&nbsp;仅三条微博引上万评论投诉</a><br>
+</li></ul>
+</div>
+</div>
+</div>
+<div class="a2">
+<div id="btcol">
+<div class="btcol_title col"><a href="https://old.scol.com.cn">老友手机报</a></div>
+<div class="btcol_more morelink"></div>
+</div>
+<div id="newslist">
+<ul>
+<li class="sf_pic"><a href="http://old.scol.com.cn/"><img src="//old.scol.com.cn/pic/20190417/20190417092719_1391.jpg" width="230" height="160"></a></li>
+<li class="newstxt2 t1-2" style="line-height:28px;">
+·<a href="https://sichuan.scol.com.cn/gcdt/201904/56853948.html">四川省第九届老年人运动会开幕</a><br>
+·<a href="https://old.scol.com.cn/jrtj/201904/56849146.html">大力度支持养老服务业实招将落地</a><br>
+</li></ul>
+</div>
+<div id="btcol">
+<div class="btcol_title col"><a href="https://cbgc.scol.com.cn">川报观察</a></div>
+<div class="btcol_more morelink"></div>
+</div>
+<div id="newslist">
+<ul><li class="newstxt2 t1-2" style="line-height:28px; white-space:nowrap;text-overflow:ellipsis;-o-text-overflow:ellipsis;overflow:hidden;">
+<script language="javascript" src="https://cbgc.scol.com.cn/getRecentNews"></script>
+</li></ul>
+</div>
+<div id="btcol">
+<div class="btcol_title col"><a href="http://scnews.scol.com.cn">四川新闻</a></div>
+<div class="btcol_more morelink"></div>
+</div>
+<div id="newslist">
+<ul>
+<li class="sf_pic"><a href="http://app.scxwapp.com/Web/NewsDetail/Article?NewsId=47260"><img src="//www.scol.com.cn/pic/20180119/20180119173806_9142.jpg" width="230" height="160"></a></li>
+<li class="newstxt2 t1-2" style="line-height:28px;">
+·<a href="http://app.scxwapp.com/Web/NewsDetail/Article?NewsId=47560">评测：方便火锅哪家强？</a><br>
+·<a href="http://app.scxwapp.com/Web/NewsDetail/Article?NewsId=47384">2018成都这些博物馆集体放大招</a><br>
+·<a href="http://app.scxwapp.com/Web/NewsDetail/Article?NewsId=47621">成都周边这些隐秘古村镇 美到惊艳</a><br>
+</li></ul>
+</div>
+<!-- 按钮广告2 -->
+<div id="afp_ad" class="scolad_close">
+<!-- 首页-B按钮1 尺寸：230x0 -->
+<div class="yxtposter" token="0F709921444696D4DDA1C49F75C4FF60"></div>
+<!-- 首页-B按钮2 尺寸：230x0 -->
+<div class="yxtposter" token="2D4AB4875D261CB736247C8383D0EC00"></div>
+<!-- 首页-B按钮3 尺寸：230x0 -->
+<div class="yxtposter" token="B8B434CD17F8F77D662B2BBBAF5BFE97"></div>
+<!-- 首页-B按钮4 尺寸：230x0 -->
+<div class="yxtposter" token="E56A6C564C369C9F946FA66E350B5DAE"></div>
+</div>
+<div class="clear"></div>
+<div id="btcol">
+<div class="btcol_title col">品牌栏目</div>
+<div class="btcol_more morelink">&nbsp;</div>
+</div>
+<div id="newslist">
+<ul><li class="newstxt2 t1-3" style="word-spacing:10px">
+<a href="http://special.scol.com.cn/15jjgcjh/"><a href="http://special.scol.com.cn/13tgml/wqhg/" target="_blank">图个明了</a> <a href="http://ent.scol.com.cn/yqtc/" target="_blank">牙尖社</a> <a href="http://sichuan.scol.com.cn/wkd/" target="_blank">Fan泛而谈</a> <a href="http://topic.scol.com.cn/16jingjie/" target="_blank">镜界</a> <a href="http://special.scol.com.cn/14tfzmjh/" target="_blank">天府周末</a> <a href="http://special.scol.com.cn/15jjgcjh/" target="_blank">经济观察</a> <a href="http://topic.scol.com.cn/17pyjh/" target="_blank">金小妹辟谣</a> <a href="http://comment.scol.com.cn/039/" target="_blank">龙门阵</a> <a href="http://comment.scol.com.cn/tfxl.shtml" target="_blank">天府新论</a></a>
+</li></ul>
+</div>
+</div>
+</div>
+<!-------------------- 频道新闻区-资讯类 -------------------->
+<div id="pdnews" class="clearfix w1000">
+<div class="a1">
+<div class="b1">
+<div id="btcol2">
+<div class="btcol2_title col-2"><a href="https://auto.scol.com.cn">汽 车</a></div>
+<div class="btcol_more morelink"><a href="https://auto.scol.com.cn/003/001/">[新 车]</a> <a href="https://esauto.scol.com.cn">[二手车]</a> <a href="https://auto.scol.com.cn/006/001/">[降 价]</a> <a href="https://auto.scol.com.cn/car_search.shtml">[车 型]</a></div>
+</div>
+<div id="newslist">
+<ul class="newspic2"><li>
+<a href="//auto.scol.com.cn/scol_qc/201904/56862724.html"><img src="//auto.scol.com.cn/pic/20190429/20190429155109_6599.jpg" width="350" height="195"></a><div class="pic_dask f14"><b>提车加钱、强制搭售保险&hellip;买辆车得跳过多少坑</b></div>
+</li>
+</ul>
+</div>
+<div id="newslist">
+<ul class="newstxt2 t2-2"><li>
+·<a href="//auto.scol.com.cn/scol_qc/201904/56862732.html">中保协发布4项标准 提升车险服务质量</a><br>
+·<a href="//auto.scol.com.cn/scol_qc/201904/56862729.html">汽车之家等8家汽车销售平台被约谈</a><br>
+·<a href="//auto.scol.com.cn/scol_qc/201904/56862728.html">宝马在华启动产品升级项目提升柔性制造</a><br>
+·<a href="//auto.scol.com.cn/scol_qc/201904/56854950.html">一季度中国新能源汽车产销量同比增长</a><br>
+·<a href="//auto.scol.com.cn/scol_qc/201904/56854942.html">奔驰将启动经销商网络合规审计</a><br>
+·<a href="//auto.scol.com.cn/scol_qc/201904/56854938.html">新能源和智能化引领车市未来</a><br>
+·<a href="//auto.scol.com.cn/scol_qc/201904/56854936.html">上海车展观市：5G 激发想象空间</a><br>
+</li></ul>
+</div>
+</div>
+<div class="b2">
+<div id="btcol2">
+<div class="btcol2_title col-2"><a href="https://house.scol.com.cn">房 产</a></div>
+<div class="btcol_more morelink"><a href="https://house.scol.com.cn/zx/">[资讯]</a> <a href="https://house.scol.com.cn/sd/">[深度]</a> <a href="https://house.scol.com.cn/xmtbk/">[坊间]</a></div>
+</div>
+<div id="newslist">
+<ul class="newspic2"><li>
+<a href="https://house.scol.com.cn/sdxw/201904/56857109.html"><img src="//house.scol.com.cn/pic/20190422/20190422094652_2674.jpg" width="350" height="195"></a><div class="pic_dask f14"><b>新房质量&ldquo;强制险&rdquo;值得探索</b></div>
+</li>
+</ul>
+</div>
+<div id="newslist">
+<ul class="newstxt2 t2-2"><li>
+·<a href="https://house.scol.com.cn/zx/201905/56865499.html">&ldquo;红五月&rdquo;开局 各地楼市销售现分化</a><br>
+·<a href="https://house.scol.com.cn/zx/201905/56865459.html">成都开展住房租赁政策进校园活动</a><br>
+·<a href="https://house.scol.com.cn/zx/201905/56865486.html">一线城市楼市小阳春消退？ 观望还是出手</a><br>
+·<a href="//house.scol.com.cn/scol_fc/201905/56864846.html">国内多地放开海岛使用权出让 当&ldquo;岛主&rdquo;代价多高？</a><br>
+·<a href="https://house.scol.com.cn/sd/201905/56864841.html">&ldquo;以房养老&rdquo;为何李鬼频出&nbsp;真保险4年仅卖出194单</a><br>
+·<a href="https://house.scol.com.cn/xmtbk/201904/56863462.html">杭州：暂停浙江链家等5家经纪机构网签资格</a><br>
+·<a href="https://house.scol.com.cn/sdxw/201904/56863212.html">资本退潮 长租公寓乱象浮出水面，面临重新洗牌</a><br>
+</li></ul>
+</div>
+</div>
+<div class="clear"></div>
+<div class="b1">
+<div id="btcol2">
+<div class="btcol2_title col-2"><a href="https://tour.scol.com.cn">旅 游</a></div>
+<div class="btcol_more morelink"><a href="https://tour.scol.com.cn/xwdt/">[最新资讯]</a> <a href="https://tour.scol.com.cn/lygl/">[旅游攻略]</a></div>
+</div>
+<div id="newslist">
+<ul class="newspic2"><li>
+<a href="//tour.scol.com.cn/scol_ly/201811/56649207.html"><img src="//tour.scol.com.cn/pic/20181107/20181107103526_0345.jpg" width="350" height="195"></a><div class="pic_dask f14"><b>成都市第五十六届菊花展缤纷启幕</b></div>
+</li>
+</ul>
+</div>
+<div id="newslist">
+<ul class="newstxt2 t2-2"><li>
+·<a href="//tour.scol.com.cn/scol_ly/201811/56649319.html">&ldquo;带着婚纱去达古&rdquo;摄影活动（第三季）举行</a><br>
+·<a href="//tour.scol.com.cn/scol_ly/201811/56649311.html">毕棚沟秋色醉人 红叶、温泉一个都不想少</a><br>
+·<a href="//tour.scol.com.cn/scol_ly/201811/56649271.html">海螺沟正逢赏红叶最佳时机 注意事项了解一下</a><br>
+·<a href="//tour.scol.com.cn/scol_ly/201811/56649246.html">有福了！雅安各大收费景区推优惠政策</a><br>
+·<a href="//tour.scol.com.cn/scol_ly/201811/56649236.html">阿坝州世界自然遗产比重占世界排名第一</a><br>
+·<a href="//tour.scol.com.cn/scol_ly/201811/56649227.html">熊猫、川菜走进芬兰和捷克 境外文旅交流合作深化</a><br>
+·<a href="//tour.scol.com.cn/scol_ly/201811/56649201.html">金秋最是赏花时 望江芙蓉正当时</a><br>
+</li></ul>
+</div>
+</div>
+<div class="b2">
+<div id="btcol2">
+<div class="btcol2_title col-2"><a href="https://sports.scol.com.cn">体 育</a></div>
+<div class="btcol_more morelink"><a href="https://sports.scol.com.cn/gjfootball/">[国际足球]</a> <a href="https://sports.scol.com.cn/lqtd/">[篮球天地]</a></div>
+</div>
+<div id="newslist">
+<ul class="newspic2"><li>
+<a href="//sports.scol.com.cn/scol_ty/201905/56865548.html"><img src="//sports.scol.com.cn/pic/20190506/20190506095249_6510.jpg" width="350" height="195"></a><div class="pic_dask f14"><b>库里扣篮失败打破追分希望 勇士客场不敌火箭</b></div>
+</li>
+</ul>
+</div>
+<div id="newslist">
+<ul class="newstxt2 t2-2"><li>
+·<a href="//sports.scol.com.cn/scol_ty/201905/56865554.html">瓦基弗银行卫冕土超联赛冠军 朱婷再获MVP</a><br>
+·<a href="//sports.scol.com.cn/scol_ty/201905/56865552.html">中国队夺得花游世界系列赛自由组合冠军</a><br>
+·<a href="//sports.scol.com.cn/scol_ty/201905/56865550.html">中超-人和再失利 斯塔诺帅位不稳？</a><br>
+·<a href="//sports.scol.com.cn/scol_ty/201905/56865546.html">武磊留洋路漫漫 西甲&ldquo;新生&rdquo;商业周边过火？</a><br>
+·<a href="//sports.scol.com.cn/scol_ty/201905/56865544.html">青训再显成果 U15成都男足首获青运冠军</a><br>
+·<a href="//sports.scol.com.cn/scol_ty/201905/56865542.html">林丹李雪芮无缘苏杯 张军：夺冠不是唯一目标</a><br>
+·<a href="//sports.scol.com.cn/scol_ty/201905/56865251.html">200余球手较技彭州 中式台球国际公开赛明日开杆</a><br>
+</li></ul>
+</div>
+</div>
+</div>
+<div class="a2">
+<div id="btcol">
+<div class="btcol_title col"><a href="https://jk.scol.com.cn">健 康</a></div>
+<div class="btcol_more morelink"></div>
+</div>
+<div id="newslist">
+<ul>
+<li class="sf_pic"><a href="http://jk.scol.com.cn/pub/G9BD/default.html"><img src="//www.scol.com.cn/pic/20190218/20190218161820_8557.jpg" width="230" height="160"></a></li>
+<li class="newstxt2 t1-2" style="line-height:28px;">
+·<a href="//www.scol.com.cn/jk/201801/56064126.html"><a href="http://jk.scol.com.cn/19/0505/08/1ELUP1S0W9AMN719.html" target="_blank">健康扶贫要防范&ldquo;福利陷阱&rdquo;</a></a><br>
+·<a href="//www.scol.com.cn/jk/201801/56064128.html"><a href="http://jk.scol.com.cn/19/0505/08/1ELUP0W0J2LF993L.html" target="_blank">癌症性格？90%的疾病与情绪相关</a></a><br>
+·<a href="//www.scol.com.cn/jk/201801/56064127.html"><a href="http://jk.scol.com.cn/19/0505/08/1ELUPNN9DO9LLIKO.html" target="_blank">6种方法有效预防阿尔茨海默症</a></a><br>
+</li></ul>
+</div>
+<!-- 微博切换 -->
+<!--
+<div id="boxtab-4" style="display:none;">
+<dl class="tnav">
+<dt onClick="javascript:window.open('#');">川报微博</dt>
+<dt onClick="javascript:window.open('#');">在线微博</dt>
+</dl>
+<dl class="tcontent">
+<dd>
+<div id="newslist">
+<iframe width="100%" height="380" class="share_self" frameborder="0" scrolling="no" src="https://widget.weibo.com/weiboshow/index.php?language=&width=0&height=400&fansRow=1&ptype=1&speed=0&skin=1&isTitle=0&noborder=0&isWeibo=1&isFans=0&uid=3167104922&verifier=5e830e61&dpc=1"></iframe>
+</div>
+</dd>
+<dd>
+<div id="newslist">
+<iframe width="100%" height="380" class="share_self"  frameborder="0" scrolling="no" src="https://widget.weibo.com/weiboshow/index.php?language=&width=0&height=400&fansRow=1&ptype=1&speed=0&skin=1&isTitle=0&noborder=0&isWeibo=1&isFans=0&uid=1887538377&verifier=a4b838a0&dpc=1"></iframe>
+</div>
+</dd>
+</dl>
+</div>
+-->
+<!-- 微博切换结束 -->
+<div id="newslist">
+<a href="http://www.sczbbx.com/" target="_blank"><img src="mainpic/zbbxw.jpg" border="0" /></a></div>
+<div id="btcol">
+<div class="btcol_title col">市 州</div>
+<div class="btcol_more morelink">&nbsp;</div>
+</div>
+<div id="newslist">
+<!-- 市州频道切换 -->
+<div id="boxtab-1">
+<dl class="tnav">
+<dt onClick="javascript:window.open('https://deyang.scol.com.cn/');">德阳</dt>
+<dt onClick="javascript:window.open('https://mianyang.scol.com.cn/');">绵阳</dt>
+<dt onClick="javascript:window.open('https://nanchong.scol.com.cn/');">南充</dt>
+<dt onClick="javascript:window.open('https://meishan.scol.com.cn/');">眉山</dt>
+<dt onClick="javascript:window.open('https://leshan.scol.com.cn/');">乐山</dt>
+<dt onClick="javascript:window.open('https://suining.scol.com.cn/');">遂宁</dt>
+<dt onClick="javascript:window.open('https://yibin.scol.com.cn/');">宜宾</dt>
+<dt onClick="javascript:window.open('https://neijiang.scol.com.cn/');">内江</dt>
+<dt onClick="javascript:window.open('https://zigong.scol.com.cn/');">自贡</dt>
+<dt onClick="javascript:window.open('https://luzhou.scol.com.cn/');">泸州</dt>
+<dt onClick="javascript:window.open('https://dazhou.scol.com.cn/');">达州</dt>
+<dt onClick="javascript:window.open('https://bazhong.scol.com.cn/');">巴中</dt>
+<dt onClick="javascript:window.open('https://gy.scol.com.cn/');">广元</dt>
+<dt onClick="javascript:window.open('https://liangshan.scol.com.cn/');">凉山</dt>
+<dt onClick="javascript:window.open('https://ziyang.scol.com.cn/');">资阳</dt>
+<dt onClick="javascript:window.open('https://yaan.scol.com.cn/');">雅安</dt>
+<dt onClick="javascript:window.open('https://ga.scol.com.cn/');">广安</dt>
+<!--<dt onClick="javascript:window.open('https://ganzi.scol.com.cn/');">甘孜</dt>
+<dt onClick="javascript:window.open('https://pzh.scol.com.cn/');">攀枝花</dt>-->
+</dl>
+<dl class="tcontent">
+<!-- 德阳 -->
+<dd>
+<ul class="szlist">
+<li class="szpic">
+<a href="https://deyang.scol.com.cn/sdtp/201811/56655209.html"><img src="//deyang.scol.com.cn/pic/20181109/20181109103111_7843.jpg" border=0><br>香柚熟了 周末鄢家摘起来</a>
+</li>
+<li class="sztxt">
+·<a href="https://deyang.scol.com.cn/sh/201811/56664460.html">德阳10月CPI同比上涨3.2%</a><br />
+·<a href="https://deyang.scol.com.cn/sh/201811/56664458.html">1-10月德阳空气质量改善明显</a><br />
+·<a href="https://deyang.scol.com.cn/sh/201811/56664457.html">市区公交票价调整听证会昨召开</a><br />
+·<a href="https://sichuan.scol.com.cn/dyxw/201811/56655158.html">今年1-10月 什邡公安为群众挽回经济损失200余万元</a><br />
+</li>
+</ul>
+</dd>
+<!-- 绵阳 -->
+<dd>
+<ul class="szlist">
+<li class="szpic">
+<a href="//mianyang.scol.com.cn/scol_my/201808/56450357.html"><img src="//mianyang.scol.com.cn/pic/20180815/20180815201352_5618.jpg" border=0><br>国网绵阳供电公司：摘除电线杆上马蜂窝 老百姓拍手连称赞</a>
+</li>
+<li class="sztxt">
+·<a href="//mianyang.scol.com.cn/scol_my/201804/56122311.html">防洪 为城市发展供水 发电 开发旅游<br />
+绵阳唐家山堰塞湖综合开发拉开帷幄</a><br />
+·<a href="//mianyang.scol.com.cn/scol_my/201804/56122308.html">请收好 绵阳三里桥至东方红大桥段封闭施工出行攻略</a><br />
+·<a href="//mianyang.scol.com.cn/scol_my/201804/56122309.html">金柱园转盘即将消失<br />
+绵阳城区三里桥至东方红大桥段4月20日零时起将封闭改造</a><br />
+·<a href="//mianyang.scol.com.cn/scol_my/201804/56122310.html">海狮&ldquo;越狱&rdquo; 绵阳街头上演警民携手抓&ldquo;逃犯&rdquo;</a><br />
+</li>
+</ul>
+</dd>
+<!-- 南充 -->
+<dd>
+<ul class="szlist">
+<li class="szpic">
+<a href="//nanchong.scol.com.cn/scol_nc/201904/56845455.html"><img src="//nanchong.scol.com.cn/pic/20190402/20190402083823_6611.jpg" border=0><br>阆中公路&ldquo;美容&rdquo; 助力争创天府旅游名县</a>
+</li>
+<li class="sztxt">
+·<a href="//nanchong.scol.com.cn/scol_nc/201904/56845459.html">亮相央视节目 南充教师表演花式倒立</a><br />
+·<a href="//nanchong.scol.com.cn/scol_nc/201904/56845460.html">足球公益行 留守娃获免费赴欧学习机会</a><br />
+·<a href="//nanchong.scol.com.cn/scol_nc/201904/56845456.html">南充开通出入境证件&ldquo;全国通办&rdquo;</a><br />
+·<a href="//nanchong.scol.com.cn/scol_nc/201904/56845457.html">南充加快构建&ldquo;5+5&rdquo;现代产业体系纪实</a><br />
+</li>
+</ul>
+</dd>
+<!-- 眉山 -->
+<dd>
+<ul class="szlist">
+<li class="szpic">
+<a href="//meishan.scol.com.cn/scol_ms/201904/56861136.html"><img src="//meishan.scol.com.cn/pic/20190427/20190427122028_5453.jpg" border=0><br>眉山岷江一桥老桥成功爆破</a>
+</li>
+<li class="sztxt">
+·<a href="//meishan.scol.com.cn/scol_ms/201904/56861133.html">四川省第二届&ldquo;森林康养月&rdquo;宣传活动在洪雅玉屏山启动</a><br />
+·<a href="//meishan.scol.com.cn/scol_ms/201904/56861134.html">2019年眉山市中小学生运动会在眉山天府新区举行 4000余名运动健儿展开角逐</a><br />
+·<a href="//meishan.scol.com.cn/scol_ms/201904/56861135.html">总投资20亿元！眉山天府新区嘉祥外国语学校落户视高</a><br />
+·<a href="//meishan.scol.com.cn/scol_ms/201904/56861137.html">​四川第三届农民工原创文艺大赛获奖名单出炉，眉山17件作品获奖！</a><br />
+</li>
+</ul>
+</dd>
+<!-- 乐山-->
+<dd>
+<ul class="szlist">
+<li class="szpic">
+<a href="https://leshan.scol.com.cn/rdxw/201905/56864918.html"><img src="//leshan.scol.com.cn/pic/20190506/20190506101750_5547.jpg" border=0><br>【图说】精彩&ldquo;五一&rdquo;亮点纷呈 文旅&ldquo;大餐&rdquo;飨游人</a>
+</li>
+<li class="sztxt">
+·<a href="https://leshan.scol.com.cn/ttxw/201905/56865524.html">乐山市茶产业：品牌引领产业强</a><br />
+·<a href="https://leshan.scol.com.cn/ttxw/201905/56865519.html">金口河区脱贫攻坚：党旗飘扬在云端</a><br />
+·<a href="https://leshan.scol.com.cn/ttxw/201905/56865481.html">五通桥区双漩村：一座便民桥 一条致富路</a><br />
+·<a href="https://leshan.scol.com.cn/ttxw/201905/56864883.html">&ldquo;五一&rdquo;小长假乐山旅游人气旺</a><br />
+</li>
+</ul>
+</dd>
+<!-- 遂宁 -->
+<dd>
+<ul class="szlist">
+<li class="szpic">
+<a href="//suining.scol.com.cn/scol_sn/201903/56832345.html"><img src="//suining.scol.com.cn/pic/20190311/20190311202947_4119.jpg" border=0><br>万亩桃花竞相开 遂宁向全国游客发出春天的邀请</a>
+</li>
+<li class="sztxt">
+·<a href="//suining.scol.com.cn/scol_sn/201905/56865176.html">遂宁法律服务团藏区&ldquo;摆摊设点&rdquo; 让法律服务惠及更多群众</a><br />
+·<a href="//suining.scol.com.cn/scol_sn/201905/56864972.html">五一小长假丨遂宁旅游市场火热 乡村旅游成主流</a><br />
+·<a href="//suining.scol.com.cn/scol_sn/201904/56863757.html">&ldquo;采鲜果&nbsp;赏美景&rdquo;2019遂宁安居采摘节今日启动&nbsp;延续至10月</a><br />
+·<a href="//suining.scol.com.cn/scol_sn/201904/56863688.html">遂宁市车管所搬新址 正式为市民办理车、驾管业务</a><br />
+</li>
+</ul>
+</dd>
+<!-- 宜宾 -->
+<dd>
+<ul class="szlist">
+<li class="szpic">
+<a href="https://yibin.scol.com.cn/sdxw/201808/56443615.html"><img src="//yibin.scol.com.cn/pic/20180815/20180815201639_8864.jpg" border=0><br>宜宾影片《最后一公里》举行研讨与发行工作会</a>
+</li>
+<li class="sztxt">
+·<a href="//yibin.scol.com.cn/scol_yb/201809/56530951.html">筠连&ldquo;土&rdquo;月饼做成大品牌</a><br />
+·<a href="//yibin.scol.com.cn/scol_yb/201809/56509072.html">政府搭台企业唱戏 宜宾筠连县举行第三届&ldquo;月饼节&rdquo;活动</a><br />
+·<a href="//yibin.scol.com.cn/scol_yb/201808/56425283.html">宜宾翠屏区：订单农业让农民吃上&ldquo;定心丸&rdquo;</a><br />
+·<a href="//yibin.scol.com.cn/scol_yb/201807/56393588.html">做大做强初创企业 宜宾市举办首期IYB创业培训班</a><br />
+</li>
+</ul>
+</dd>
+<!-- 内江 -->
+<dd>
+<ul class="szlist">
+<li class="szpic">
+<a href="//neijiang.scol.com.cn/scol_nj/201903/56836461.html"><img src="//neijiang.scol.com.cn/pic/20190318/20190318145604_7963.jpg" border=0><br>内江创新引入产业基金助推高端曲轴项目</a>
+</li>
+<li class="sztxt">
+·<a href="//neijiang.scol.com.cn/scol_nj/201904/56855920.html">展翅在船城的&ldquo;领头雁&rdquo;</a><br />
+·<a href="//neijiang.scol.com.cn/scol_nj/201904/56849789.html">好消息！5月17日，张大千博物馆将试开馆</a><br />
+·<a href="//neijiang.scol.com.cn/scol_nj/201904/56847318.html">勇救落水儿童的邮政小哥找到了</a><br />
+·<a href="//neijiang.scol.com.cn/scol_nj/201903/56829668.html">1天卖出3万多斤 内江晚熟柑橘获市场青睐</a><br />
+</li>
+</ul>
+</dd>
+<!-- 自贡 -->
+<dd>
+<ul class="szlist">
+<li class="szpic">
+<a href="//zigong.scol.com.cn/scol_zg/201806/56256592.html"><img src="//zigong.scol.com.cn/pic/20180605/20180605161712_0421.jpg" border=0><br>自贡西南智能终端产业园投产刷新&ldquo;自贡速度&rdquo;</a>
+</li>
+<li class="sztxt">
+·<a href="//zigong.scol.com.cn/scol_zg/201903/56843856.html">自贡城投：绘出美丽画卷 擦亮乡村振兴</a><br />
+·<a href="//zigong.scol.com.cn/scol_zg/201903/56837886.html">自贡将打造工业领域&ldquo;淘宝网&rdquo; 开启物流&ldquo;新经济&rdquo;</a><br />
+·<a href="//zigong.scol.com.cn/scol_zg/201903/56835702.html">成自泸赤高速路大安互通及连接线建成通车</a><br />
+·<a href="//zigong.scol.com.cn/scol_zg/201903/56835701.html">注意了！3月18日，自贡这些路口信号灯要变样！</a><br />
+</li>
+</ul>
+</dd>
+<!-- 泸州 -->
+<dd>
+<ul class="szlist">
+<li class="szpic">
+<a href="//luzhou.scol.com.cn/scol_lz/201902/56818640.html"><img src="//luzhou.scol.com.cn/pic/20190217/20190217111324_4033.jpg" border=0><br>时隔13年四川再办省级兰博会 2000余盆珍稀兰花亮相泸州</a>
+</li>
+<li class="sztxt">
+·<a href="//luzhou.scol.com.cn/scol_lz/201904/56862374.html">停产一天损失至少10万元 泸县六家煤矿主动停产整顿</a><br />
+·<a href="//luzhou.scol.com.cn/scol_lz/201904/56861793.html">泸州交警挽起警裤、徒手掏污物 网友：他弯腰的样子真帅</a><br />
+·<a href="//luzhou.scol.com.cn/scol_lz/201904/56856335.html">泸州3人使用伪造特种作业操作证 每人被罚2000元</a><br />
+·<a href="//luzhou.scol.com.cn/scol_lz/201904/56854592.html">龙马潭区：传承农耕文化，把&ldquo;农田&rdquo;搬进课堂</a><br />
+</li>
+</ul>
+</dd>
+<!-- 达州 -->
+<dd>
+<ul class="szlist">
+<li class="szpic">
+<a href="https://dazhou.scol.com.cn/sdxwtt/201809/56555415.html"><img src="//dazhou.scol.com.cn/pic/20180928/20180928105132_9538.jpg" border=0><br>国庆去哪玩？戳进来190张景区门票等你来拿！</a>
+</li>
+<li class="sztxt">
+·<a href="https://sichuan.scol.com.cn/dzxw/201808/56466813.html">1.4亿！烟草行业援建开江水源工程 将缓解53万人饮水困难</a><br />
+·<a href="https://dazhou.scol.com.cn/sdxwtt/201807/56384127.html">焦点&middot;关注丨因铁路而兴的小镇巨变</a><br />
+·<a href="http://dazhou.scol.com.cn/sdxwtt/201806/56256849.html">信用至上的&ldquo;朋友圈&rdquo;快贷 农村资金互助之路还很长</a><br />
+·<a href="http://dazhou.scol.com.cn/sdxwtt/201805/56227074.html">达州市21家企业组团参加&ldquo;西洽会&rdquo;，来看有啥稀奇?</a><br />
+</li>
+</ul>
+</dd>
+<!-- 巴中 -->
+<dd>
+<ul class="szlist">
+<li class="szpic">
+<a href="https://bazhong.scol.com.cn/sdtp/201904/56851572.html"><img src="//bazhong.scol.com.cn/pic/20190412/20190412154922_3371.jpg" border=0><br>巴中地道农产品变身高端&ldquo;护肤品&rdquo;&nbsp;通江银耳家族出了个&ldquo;润耳面膜&rdquo;</a>
+</li>
+<li class="sztxt">
+·<a href="https://bazhong.scol.com.cn/sdtp/201903/56843777.html">4月18日，来巴中通江品一口&ldquo;巴中云顶&rdquo;茶</a><br />
+·<a href="https://bazhong.scol.com.cn/sdtp/201902/56820451.html">巴中市自然资源和规划局正式挂牌成立&nbsp;</a><br />
+·<a href="https://bazhong.scol.com.cn/sdtp/201812/56735197.html">通江&ldquo;交警爸爸&rdquo;默默帮助双胞胎姐妹6年 只为给孩子家的温暖</a><br />
+·<a href="https://bazhong.scol.com.cn/sdtp/201811/56661866.html">带着妈妈教书，巴中90后女教师用心中暖阳点燃青春梦想</a><br />
+</li>
+</ul>
+</dd>
+<!-- 广元 -->
+<dd>
+<ul class="szlist">
+<li class="szpic">
+<a href="https://gy.scol.com.cn/sdxw/201809/56535465.html"><img src="//gy.scol.com.cn/pic/20180920/20180920082401_5093.jpg" border=0><br>广元首张港澳台居民居住证发出</a>
+</li>
+<li class="sztxt">
+·<a href="//gy.scol.com.cn/scol_gy/201904/56852271.html">网上在逃犯罪嫌疑人参加驾考 考场被抓</a><br />
+·<a href="//gy.scol.com.cn/scol_gy/201904/56852270.html">苍溪公安扎实开展脱贫攻坚蹲点调研</a><br />
+·<a href="//gy.scol.com.cn/scol_gy/201903/56833923.html">土地托管 让剑阁农民打工种地两不误</a><br />
+·<a href="//gy.scol.com.cn/scol_gy/201903/56826273.html">何家山风电场项目年底投产发电</a><br />
+</li>
+</ul>
+</dd>
+<!-- 凉山 -->
+<dd>
+<ul class="szlist">
+<li class="szpic">
+<a href="//liangshan.scol.com.cn/scol_ls/201904/56850918.html"><img src="//liangshan.scol.com.cn/pic/20190411/20190411173744_2454.jpg" border=0><br>让大凉山农特产品走出大山&nbsp; 凉山州农特产品推介会暨签约仪式 在香港成功举办</a>
+</li>
+<li class="sztxt">
+·<a href="//liangshan.scol.com.cn/scol_ls/201904/56861817.html">凉山启动团员青年投身移风易俗志愿服务活动</a><br />
+·<a href="//liangshan.scol.com.cn/scol_ls/201904/56861582.html">凉山勾勒田园牧歌乡村振兴画卷 2035年基本实现农业农村现代化</a><br />
+·<a href="//liangshan.scol.com.cn/scol_ls/201904/56859783.html">864小时的凉山速度！甘洛高山有机蔬菜基地为村民脱贫加速</a><br />
+·<a href="//liangshan.scol.com.cn/scol_ls/201904/56859779.html">脱贫路上 甘洛&ldquo;三建四改&rdquo;为乡村换新颜</a><br />
+</li>
+</ul>
+</dd>
+<!-- 资阳 -->
+<dd>
+<ul class="szlist">
+<li class="szpic">
+<a href="https://ziyang.scol.com.cn/sdtp/201904/56858308.html"><img src="//ziyang.scol.com.cn/pic/20190423/20190423170817_9028.jpg" border=0><br>中国牙谷今年产值有望突破20亿元</a>
+</li>
+<li class="sztxt">
+·<a href="https://ziyang.scol.com.cn/sdtp/201904/56858330.html">资阳&ldquo;非遗&rdquo;进校园 师范学生争当&ldquo;传承人 &rdquo;</a><br />
+·<a href="https://ziyang.scol.com.cn/sdxwtt/201904/56856236.html">&ldquo;旅游+&rdquo;跨界融合 第十一届中国安岳柠檬节开幕</a><br />
+·<a href="https://ziyang.scol.com.cn/sdtp/201904/56852713.html">资阳签约36个项目 成资合作项目超三成</a><br />
+·<a href="https://ziyang.scol.com.cn/sdxwtt/201904/56852729.html">总投资100亿!南津驿特色小镇5月开工 拟选址这两个地方</a><br />
+</li>
+</ul>
+</dd>
+<!-- 雅安 -->
+<dd>
+<ul class="szlist">
+<li class="szpic">
+<a href="//yaan.scol.com.cn/scol_ya/201903/56829274.html"><img src="//yaan.scol.com.cn/pic/20190306/20190306202202_6519.jpg" border=0><br>石棉：黄果柑产业迎来蓬勃发展</a>
+</li>
+<li class="sztxt">
+·<a href="//yaan.scol.com.cn/scol_ya/201904/56861156.html">鸽子花开 &ldquo;八美&rdquo;诠释荥经生态人文魅力</a><br />
+·<a href="//yaan.scol.com.cn/scol_ya/201904/56853841.html">熊猫老家的&ldquo;宝兴白&rdquo;让法国客人大开眼界</a><br />
+·<a href="//yaan.scol.com.cn/scol_ya/201904/56852377.html">150年溯源宝兴，大熊猫起源馆将于今日下午开馆</a><br />
+·<a href="//yaan.scol.com.cn/scol_ya/201904/56852116.html">当荥经黑砂邂逅现代艺术 会怎样？</a><br />
+</li>
+</ul>
+</dd>
+<!-- 广安 -->
+<dd>
+<ul class="szlist">
+<li class="szpic">
+<a href="//guangan.scol.com.cn/scol_ga/201805/56209095.html"><img src="//guangan.scol.com.cn/pic/20180518/20180518181900_8666.jpg" border=0><br>广安与万达签约 拟选址东南片区</a>
+</li>
+<li class="sztxt">
+·<a href="//guangan.scol.com.cn/scol_ga/201804/56119442.html">生产生活有困难就找民生信息员</a><br />
+·<a href="//guangan.scol.com.cn/scol_ga/201804/56119439.html">返乡老乡带老乡 带火特色乡村游</a><br />
+·<a href="//guangan.scol.com.cn/scol_ga/201804/56115376.html">广安向因病致贫因病返贫&ldquo;开刀&rdquo;</a><br />
+·<a href="//guangan.scol.com.cn/scol_ga/201803/56093206.html">万人相亲 岳池排楼乡&ldquo;李花节&rdquo;3月10日开幕</a><br />
+</li>
+</ul>
+</dd>
+<!-- 甘孜 -->
+<dd style="display:none">
+<ul class="szlist">
+<li class="szpic">
+</li>
+<li class="sztxt">
+</li>
+</ul>
+</dd>
+<!-- 攀枝花 -->
+<dd style="display:none">
+<ul class="szlist">
+<li class="szpic">
+</li>
+<li class="sztxt">
+·<a href="//pzh.scol.com.cn/scol_pzh/201709/55989299.html">sdf</a><br />
+</li>
+</ul>
+</dd>
+</dl>
+</div>
+<!-- 市州频道切换结束 -->
+</div>
+<div id="newslist" style="border-top:1px solid #95C4E3;">
+<ul class="newstxt t1" style="padding:5px; line-height:26px;">
+<li><a href="http://www.12377.cn">中国互联网举报中心</a></li>
+<li><a href="http://scjx.scol.com.cn">四川记协网</a></li>
+<li><a href="http://www.scjb.gov.cn">四川省互联网举报中心</a></li>
+<li><a href="/mainpic/jubao/jubao.htm">四川省网络违法犯罪举报</a></li>
+</ul>
+<ul>
+<li><a href="http://www.12377.cn/"><img src="mainpic/jbzx_app.jpg"></a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="afp_ad" class="scolad_close clearfix w1000">
+<!-- 首页-底部通栏1 尺寸：1000x0 -->
+<div class="yxtposter" token="2307AE1E9AD8FA9991806B623152AE65"></div>
+<!-- 首页-底部通栏2 尺寸：1000x0 -->
+<div class="yxtposter" token="F6C9B8D2750807089D47B658A742B160"></div>
+<!-- 首页-底部通栏3 尺寸：1000x0 -->
+<div class="yxtposter" token="1618153B4B8C7B6F9DB4297D32E54696"></div>
+<!-- 首页-底部通栏4 尺寸：1000x0 -->
+<div class="yxtposter" token="DA23A49574BF87981E6788CBA6922B98"></div>
+<!-- 首页-底部通栏5 尺寸：1000x0 -->
+<div class="yxtposter" token="8E969393E4F482C13693ED35FBA15790"></div>
+</div>
+<!-------------------- 地方网联 -------------------->
+<SPAN id=index_link></SPAN>
+
+<!-------------------- 版权信息 -------------------->
+<div id="copyright" class="clearfix w1000">
+<br /><script language="javascript" type="text/javascript" src="new_bottom_n.js"></script>
+</div>
+</body>
+</html>
+<!-- 天气插件 -->
+<script>
+$('#scol_weather').append('<iframe allowtransparency="true" frameborder="0" width="200" height="36" scrolling="no" src="https://tianqi.2345.com/plugin/widget/index.htm?s=3&z=2&t=0&v=0&d=2&bd=0&k=000000&f=&q=1&e=1&a=1&c=56294&w=200&h=36&align=left"></iframe>');
+</script>
+<!-- 遮盖插件 -->
+<script>
+$(function(){
+	$('#picnews ul li,#pdnews ul li,#more_dsj ul li').hover(function(){
+		$('.pic_dask',this).stop().animate({
+			height:'30px'
+		});
+	},function(){
+		$('.pic_dask',this).stop().animate({
+			height:'0'
+		});
+	});
+	$('.cx_new_icon_close').click(function(){
+		$('.cx_new_icon').hide();
+	});
+});
+</script>
+<!-- 切换插件 -->
+<script language="javascript" type="text/javascript" src="js/jquery.tab.js"></script>
+<script>new SetTab("boxtab-1",2000,0);</script>
+<script>new SetTab("boxtab-2",8000,0);</script>
+<script>new SetTab("boxtab-3",8000,0);</script>
+<script>new SetTab("boxtab-4",5000,0);</script>
+<!-- 地方网联 -->
+<span class=spanclass id=span_index_link>
+<div id="links" class="clearfix w1000">
+<div class="a1">&nbsp;友情链接</div>
+<div class="a2">
+<div class="hcol">
+<ul>
+<li><a href="https://www.scdaily.cn">四川日报网</a></li>
+<li><a href="http://www.huaxi100.com">华西都市网</a></li>
+<li><a href="https://tour.scol.com.cn">四川旅游新闻网</a></li>
+<li><a href="http://scnongye.scol.com.cn">四川农网</a></li>
+<li><a href="http://www.scfzbs.com">四川法制报网</a></li>
+<li><a href="http://www.hrnewspaper.com">人力资源报网</a></li>
+<li><a href="https://bbs.scol.com.cn">天府社区</a></li>
+<li><a href="http://www.scis.org.cn">四川互联网协会</a></li>
+<li><a href="http://www.sctv.com">四川广播电视台</a></li>
+<li><a href="http://www.qchyhotel.com">青城花园酒店</a></li>
+<li><a href="http://jrtzb.com.cn">金融投资网</a></li>
+<li><a href="https://www.west.cn">云服务器</a></li>
+<li><a href="/friendlink.htm">&gt;&gt;更多</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<div id="links" class="clearfix w1000">
+<div class="a1">&nbsp;地方网联</div>
+<div class="a2">
+<div class="hcol">
+<ul>
+<li><a href="http://www.sc.xinhuanet.com">新华四川</a></li>
+<li><a href="http://www.enorth.com.cn">北方网</a></li>
+<li><a href="http://www.hebei.com.cn">长城网</a></li>
+<li><a href="http://www.runsky.com">大连天健网</a></li>
+<li><a href="http://www.dzwww.com">大众网</a></li>
+<li><a href="http://www.northeast.cn">东北网</a></li>
+<li><a href="http://www.nen.com.cn">东北新闻网</a></li>
+<li><a href="http://www.eastday.com">东方网</a></li>
+<li><a href="http://www.fjsen.com">东南网</a></li>
+<li><a href="http://www.gxnews.com.cn">广西新闻网</a></li>
+<li><a href="http://www.sxgov.cn">黄河新闻网</a></li>
+<li><a href="http://www.cqnews.net">华龙网</a></li>
+<li><a href="http://www.hinews.cn">南海网</a></li>
+<li><a href="http://www.rednet.com.cn">红网</a></li>
+<li><a href="http://www.dahe.cn">大河网</a></li>
+<li><a href="http://www.xhby.net">新华报业网</a></li>
+<li><a href="http://www.nxnews.net">宁夏新闻网</a></li>
+<li><a href="http://www.cnhubei.com">荆楚网</a></li>
+<li><a href="http://www.southcn.com">南方网</a></li>
+<li><a href="http://www.gog.com.cn">金黔在线</a></li>
+<li><a href="http://www.nmgnews.com.cn">内蒙古新闻网</a></li>
+<li><a href="http://www.qhnews.com">青海新闻网</a></li>
+<li><a href="http://www.zjol.com.cn">浙江在线</a></li>
+<li><a href="http://www.qianlong.com">千龙网</a></li>
+<li><a href="http://www.ts.cn">天山网</a></li>
+<li><a href="http://www.cnwest.com">西部网</a></li>
+<li><a href="http://www.yunnan.cn">云南网</a></li>
+<li><a href="http://www.jschina.com.cn">江苏网</a></li>
+<li><a href="http://www.chinajilin.com.cn">吉林网</a></li>
+<li><a href="http://www.hebnews.cn">河北新闻网</a></li>
+<li><a href="http://www.chinatibetnews.com">西藏新闻网</a></li>
+<li><a href="http://www.jxcn.cn">江西网</a></li>
+<li><a href="http://www.lnd.com.cn">北国网</a></li>
+<li><a href="http://www.syd.com.cn">北方热线</a></li>
+<li><a href="http://www.gansudaily.com.cn">每日甘肃网</a></li>
+<li><a href="http://www.sxrb.com">山西新闻网</a></li>
+<li><a href="http://www.jxnews.com.cn">大江网</a></li>
+<li><a href="http://www.jiaodong.net">胶东在线</a></li>
+<li><a href="http://www.sdchina.com">山东网</a></li>
+<li><a href="http://www.iqilu.com">齐鲁网</a></li>
+<li><a href="http://www.sznews.com">深圳新闻网</a></li>
+<li><a href="http://www.voc.com.cn">华声在线</a></li>
+<li><a href="http://www.hsw.cn">华商网</a></li>
+<li><a href="http://www.gywb.cn">贵阳网</a></li>
+<li><a href="http://www.whnews.cn">威海网</a></li>
+<li><a href="http://www.anhuinews.com">中安在线</a></li>
+<li><a href="http://www.cjn.cn">长江网</a></li>
+<li><a href="http://www.mnw.cn">闽南网</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</span>
+<script>
+document.getElementById("index_link").innerHTML=document.getElementById("span_index_link").innerHTML;document.getElementById("span_index_link").innerHTML="";
+</script>
+<div id="afp_ad" class="scolad_close">
+<!-- 首页-条幅（左） 尺寸：60x300-->
+<div class="yxtposter" token="BE62FE32D37CE3CAA8312469D5A615A0"></div>
+<!-- 首页-条幅（右） 尺寸：60x300 -->
+<div class="yxtposter" token="AD16557BBDD6A97973BFAE5DB9CBCADF"></div>
+<!-- 首页-浮层（大） 尺寸：不限制 -->
+<div class="yxtposter" token="408E857D9C838503A2ECEBB55FF70C0D"></div>
+<!-- 首页-浮层（小） 尺寸：不限制 -->
+<div class="yxtposter" token="CD17F65EAA390864C2D614D1B4ECBD0D"></div>
+<!-- 首页-浮标（左）1 尺寸：不限制 -->
+<div class="yxtposter" token="E13CA28D8247F0101BBE778B8CC5A0AA"></div>
+<!-- 首页-浮标（左）2 尺寸：不限制 -->
+<div class="yxtposter" token="6A74BD396B22E7AFAF4A0B055B176C32"></div>
+<!-- 首页-浮标（左）3 尺寸：不限制 -->
+<div class="yxtposter" token="601BF4D14BFA7054F7EED4C2DFC4007D"></div>
+<!-- 首页-浮标（左）4 尺寸：不限制 -->
+<div class="yxtposter" token="579C12B3BE89AD7743813168C814C8B1"></div>
+<!-- 首页-浮标（左）5 尺寸：不限制 -->
+<div class="yxtposter" token="5200463441C35CAD557D4F6E7A07F1A0"></div>
+<!-- 首页-浮标（右）1 尺寸：不限制 -->
+<div class="yxtposter" token="F45FB19F996190F2F61BCEC7EFCB9392"></div>
+<!-- 首页-浮标（右）2 尺寸：不限制 -->
+<div class="yxtposter" token="AA3EC0E36AAA499BF485C790C8042524"></div>
+<!-- 首页-浮标（右）3 尺寸：不限制 -->
+<div class="yxtposter" token="B67A72022DF190012FB716F33ED6C83C"></div>
+<!-- 首页-浮标（右）4 尺寸：不限制 -->
+<div class="yxtposter" token="1BB6C66CA58B8B7BD6B306ADDB65F622"></div>
+<!-- 首页-浮标（右）5 尺寸：不限制 -->
+<div class="yxtposter" token="D4BC4F8F710E95D473B38E933D86516E"></div>
+</div>
+<div style="display:none">
+<script language="javascript" type="text/javascript" src="https://web3.scol.com.cn/sconlinecount/ipcount.asp?channelname=sconline&channel=四川在线首页&colname=index.htm&col="></script>
+<iframe name=newsstatic width=1 height=1 frameborder=0 src='https://special.scol.com.cn/siteinfo/kw9e.asp'></iframe>
+<!-- 百度统计 -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?3655798ef3e7d6f0b0ffacdc386fa14d";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<!-- 用户行为分析 -->
+<script>
+var _paq = _paq || [];window['_paq'] = _paq;
+_paq.push(['appkey', 'UAR-000159_219']);
+_paq.push(['uid', 'youruid', 'youruidtype']);
+_paq.push(['cata', 'cata_log']);
+_paq.push(['trackPV']);
+(function() {
+var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+pa.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'rev.uar.hubpd.com/agent/pa.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+})();
+</script>
+<!-- 站长统计 -->
+<script language="javascript" src="https://s11.cnzz.com/stat.php?id=4582800&web_id=4582800&show=pic1"></script>
+</div>
+
+<!-- 首页统计开始 --->
+<script>
+var jsonsc={"cid":2,"channelid":100,"columnid":0,"articleid":0,"editor":"","author":"","sname":"首页","cname":"","ptime":0}
+</script>
+<div style="display:none"><script src="https://tongji.scol.com.cn/" language="JavaScript" charset="UTF-8"></script></div>
+<!-- 首页统计结束 --->
+
+<!-- 页面生成时间 2019-05-06 10:36:39 -->
